@@ -35,6 +35,10 @@ class PreliminarySpider(Spider):
             it = MatchResultItem()
             it['home'] = match.xpath('div[@class="t home"]/div[@class="t-n"]/span/text()').extract()[0]
             it['away'] = match.xpath('div[@class="t away"]/div[@class="t-n"]/span/text()').extract()[0]
+            score = match.xpath('div[@class="s"]/div[@class="s-fixture"]/div[starts-with(@class,"s-score")]/span[@class="s-scoreText"]/text()').extract()[0].split('-')
+
+            it['scoreHome'] = score[0]
+            it['scoreAway'] = score[1]
 
             ret.append(it)
         except Exception:

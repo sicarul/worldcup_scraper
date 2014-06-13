@@ -1,0 +1,808 @@
+home,away,scoreHome,scoreAway
+Uruguay,Jordania,0,0
+Jordania,Uruguay,0,5
+Uruguay,Argentina,3,2
+Perú,Bolivia,1,1
+Paraguay,Colombia,1,2
+Chile,Ecuador,2,1
+Argentina,Perú,3,1
+Venezuela,Paraguay,1,1
+Ecuador,Uruguay,1,0
+Colombia,Chile,3,3
+Paraguay,Argentina,2,5
+Venezuela,Perú,3,2
+Uruguay,Colombia,2,0
+Bolivia,Ecuador,1,1
+Perú,Uruguay,1,2
+Chile,Venezuela,3,0
+Paraguay,Bolivia,4,0
+Colombia,Ecuador,1,0
+Chile,Bolivia,3,1
+Venezuela,Uruguay,0,1
+Ecuador,Argentina,1,1
+Colombia,Perú,2,0
+Perú,Ecuador,1,0
+Paraguay,Chile,1,2
+Argentina,Colombia,0,0
+Bolivia,Venezuela,1,1
+Chile,Uruguay,2,0
+Venezuela,Colombia,1,0
+Ecuador,Paraguay,4,1
+Bolivia,Argentina,1,1
+Perú,Chile,1,0
+Argentina,Venezuela,3,0
+Uruguay,Paraguay,1,1
+Colombia,Bolivia,5,0
+Chile,Argentina,1,2
+Paraguay,Perú,1,0
+Venezuela,Ecuador,1,1
+Bolivia,Uruguay,4,1
+Argentina,Uruguay,3,0
+Uruguay,Jordania,0,0
+Jordania,Uruguay,0,5
+Uzbekistán,Jordania,1,1
+Jordania,Uzbekistán,1,1
+República de Corea,Irán,0,1
+Australia,Irak,1,0
+Jordania,Omán,1,0
+Uzbekistán,Qatar,5,1
+República de Corea,Uzbekistán,1,0
+Irán,Líbano,4,0
+Australia,Jordania,4,0
+Irak,Japón,0,1
+Líbano,República de Corea,1,1
+Japón,Australia,1,1
+Qatar,Irán,0,1
+Omán,Irak,1,0
+República de Corea,Qatar,2,1
+Australia,Omán,2,2
+Uzbekistán,Líbano,1,0
+Jordania,Japón,2,1
+Francia,Ucrania,3,0
+Rumanía,Grecia,1,1
+Suecia,Portugal,2,3
+Croacia,Islandia,2,0
+Ucrania,Francia,2,0
+Grecia,Rumanía,3,1
+Portugal,Suecia,1,0
+Islandia,Croacia,0,0
+Azerbaiyán,Rusia,1,1
+Bulgaria,República Checa,0,1
+Letonia,Eslovaquia,2,2
+Montenegro,Moldavia,2,5
+Bélgica,Gales,1,1
+Rumanía,Estonia,2,0
+Turquía,Países Bajos,0,2
+San Marino,Ucrania,0,8
+España,Georgia,2,0
+Francia,Finlandia,3,0
+Suecia,Alemania,3,5
+Italia,Armenia,2,2
+Serbia,ARY de Macedonia,5,1
+Argelia,Burkina Faso,1,0
+Egipto,Ghana,2,1
+Camerún,Túnez,4,1
+Senegal,Costa de Marfil,1,1
+Nigeria,Etiopía,2,0
+Ghana,Egipto,6,1
+Túnez,Camerún,0,0
+Etiopía,Nigeria,1,2
+Costa de Marfil,Senegal,3,1
+Burkina Faso,Argelia,3,2
+Argelia,Mali,1,0
+Egipto,Guinea,4,2
+Sudán,Lesoto,1,3
+Benín,Ruanda,2,0
+Kenia,Namibia,1,0
+Camerún,Libia,1,0
+Togo,RD del Congo,2,1
+Zimbabue,Mozambique,1,1
+Senegal,Uganda,1,0
+Costa de Marfil,Marruecos,1,1
+Gambia,Tanzania,2,0
+Ecuador,Chile,3,1
+Bolivia,Perú,1,1
+Colombia,Paraguay,2,0
+Perú,Argentina,1,1
+Paraguay,Venezuela,0,2
+Uruguay,Ecuador,1,1
+Chile,Colombia,1,3
+Perú,Venezuela,2,1
+Argentina,Paraguay,3,1
+Ecuador,Bolivia,1,0
+Colombia,Uruguay,4,0
+Ecuador,Colombia,1,0
+Uruguay,Perú,4,2
+Venezuela,Chile,0,2
+Bolivia,Paraguay,3,1
+Perú,Colombia,0,1
+Argentina,Ecuador,4,0
+Bolivia,Chile,0,2
+Uruguay,Venezuela,1,1
+Venezuela,Bolivia,1,0
+Chile,Paraguay,2,0
+Irán,Uzbekistán,0,1
+Qatar,Líbano,1,0
+Irak,Jordania,1,0
+Omán,Japón,1,2
+Irán,República de Corea,1,0
+Irak,Australia,1,2
+Omán,Jordania,2,1
+Qatar,Uzbekistán,0,1
+Japón,Irak,1,0
+Jordania,Australia,2,1
+Uzbekistán,República de Corea,2,2
+Líbano,Irán,1,0
+República de Corea,Líbano,3,0
+Irán,Qatar,0,0
+Australia,Japón,1,1
+Irak,Omán,1,1
+Japón,Jordania,6,0
+Qatar,República de Corea,1,4
+Dinamarca,Malta,6,0
+Escocia,Croacia,2,0
+Lituania,Bosnia y Herzegovina,0,1
+Grecia,Liechtenstein,2,0
+Suiza,Eslovenia,1,0
+Noruega,Islandia,1,1
+Israel,Irlanda del Norte,1,1
+Hungría,Andorra,2,0
+Inglaterra,Polonia,2,0
+República de Irlanda,Kazajstán,3,1
+Islas Feroe,Austria,0,3
+Chipre,Albania,0,0
+Portugal,Luxemburgo,3,0
+España,Bielorrusia,2,1
+Grecia,Eslovaquia,1,0
+Estonia,Turquía,0,2
+Ucrania,Polonia,1,0
+Azerbaiyán,Irlanda del Norte,2,0
+Portugal,Israel,1,1
+Eslovenia,Noruega,3,0
+Alemania,República de Irlanda,3,0
+Níger,Congo,2,2
+Sierra Leona,Guinea Ecuatorial,3,2
+Nigeria,Malaui,2,0
+Burkina Faso,Gabón,1,0
+Sudáfrica,Botsuana,4,1
+República Centroafricana,Etiopía,1,2
+Ghana,Zambia,2,1
+Mali,Benín,2,2
+Guinea,Zimbabue,1,0
+Guinea Ecuatorial,Túnez,1,1
+Etiopía,Sudáfrica,2,1
+Liberia,Senegal,0,2
+Ruanda,Argelia,0,1
+RD del Congo,Camerún,0,0
+Tanzania,Costa de Marfil,2,4
+Lesoto,Ghana,0,2
+Mozambique,Egipto,0,1
+Marruecos,Gambia,2,0
+Cabo Verde,Sierra Leona,1,0
+Uganda,Angola,2,1
+Gabón,Níger,4,1
+Colombia,Argentina,1,2
+Ecuador,Perú,2,0
+Paraguay,Ecuador,2,1
+Uruguay,Chile,4,0
+Colombia,Venezuela,1,1
+Argentina,Bolivia,1,1
+Venezuela,Argentina,1,0
+Chile,Perú,4,2
+Paraguay,Uruguay,1,1
+Bolivia,Colombia,1,2
+Perú,Paraguay,2,0
+Argentina,Chile,4,1
+Uruguay,Bolivia,4,2
+Ecuador,Venezuela,2,0
+Omán,Australia,0,0
+Líbano,Uzbekistán,1,1
+Líbano,Qatar,0,1
+Japón,Omán,3,0
+Uzbekistán,Irán,0,1
+Jordania,Irak,1,1
+República de Corea,Kuwait,2,0
+Australia,Arabia Saudí,4,2
+Japón,Uzbekistán,0,1
+Irán,Qatar,2,2
+Irak,Singapur,7,1
+Bahréin,Indonesia,10,0
+Emiratos Árabes Unidos,Líbano,4,2
+RP China,Jordania,3,1
+Omán,Tailandia,2,0
+Tayikistán,RDP de Corea,1,1
+Singapur,RP China,0,4
+Arabia Saudí,Omán,0,0
+Qatar,Bahréin,0,0
+Suecia,Austria,2,1
+Países Bajos,Hungría,8,1
+Andorra,Rumanía,0,4
+Luxemburgo,Rusia,0,4
+Albania,Suiza,1,2
+Dinamarca,Italia,2,2
+Inglaterra,Montenegro,4,1
+Bosnia y Herzegovina,Liechtenstein,4,1
+Gales,ARY de Macedonia,1,0
+Malta,República Checa,1,4
+Armenia,Bulgaria,2,1
+Moldavia,San Marino,3,0
+Islandia,Chipre,2,0
+Lituania,Letonia,2,0
+Croacia,Bélgica,1,2
+Islas Feroe,Kazajstán,1,1
+Kazajstán,Suecia,0,1
+Bielorrusia,Francia,2,4
+Ucrania,Inglaterra,0,0
+Grecia,Letonia,1,0
+Chipre,Eslovenia,0,2
+Congo,Burkina Faso,0,1
+Zambia,Sudán,1,1
+Botsuana,República Centroafricana,3,2
+Libia,Togo,2,0
+Namibia,Nigeria,1,1
+Malaui,Kenia,2,2
+Mali,Ruanda,1,1
+Guinea,Mozambique,6,1
+Benín,Argelia,1,3
+Níger,Burkina Faso,0,1
+Zimbabue,Egipto,2,4
+Marruecos,Tanzania,2,1
+Gambia,Costa de Marfil,0,3
+Sierra Leona,Túnez,2,2
+Uganda,Liberia,1,0
+Angola,Senegal,1,1
+Gabón,Congo,0,0
+Zambia,Lesoto,4,0
+República Centroafricana,Sudáfrica,0,3
+Sudán,Ghana,1,3
+Libia,RD del Congo,0,0
+Indonesia,Irán,1,4
+Tailandia,Australia,0,1
+Jordania,Irak,1,3
+Uzbekistán,Tayikistán,3,0
+Kuwait,Emiratos Árabes Unidos,2,1
+RDP de Corea,Japón,1,0
+Líbano,República de Corea,2,1
+Arabia Saudí,Tailandia,3,0
+Qatar,Indonesia,4,0
+Bahréin,Irán,1,1
+Omán,Australia,1,0
+Uzbekistán,RDP de Corea,1,0
+Jordania,Singapur,2,0
+Kuwait,Líbano,0,1
+Irak,RP China,1,0
+Emiratos Árabes Unidos,República de Corea,0,2
+Tayikistán,Japón,0,4
+RP China,Irak,0,1
+República de Corea,Emiratos Árabes Unidos,2,1
+Japón,Tayikistán,8,0
+Singapur,Jordania,0,3
+Georgia,Finlandia,0,1
+Rumanía,Turquía,0,2
+Austria,República de Irlanda,1,0
+San Marino,Polonia,1,5
+Italia,República Checa,2,1
+ARY de Macedonia,Escocia,1,2
+Hungría,Estonia,5,1
+Andorra,Países Bajos,0,2
+Eslovaquia,Bosnia y Herzegovina,1,2
+Luxemburgo,Irlanda del Norte,3,2
+Armenia,Dinamarca,0,1
+Malta,Bulgaria,1,2
+Gales,Serbia,0,3
+Islas Feroe,Alemania,0,3
+Noruega,Suiza,0,2
+Rusia,Israel,3,1
+Islandia,Albania,2,1
+Lituania,Liechtenstein,2,0
+Israel,Azerbaiyán,1,1
+Georgia,Francia,0,0
+Finlandia,España,0,2
+Kenia,Nigeria,0,1
+Malaui,Namibia,0,0
+Argelia,Benín,3,1
+Egipto,Zimbabue,2,1
+Liberia,Uganda,2,0
+Ghana,Sudán,4,0
+Etiopía,Botsuana,1,0
+RD del Congo,Libia,0,0
+Ruanda,Mali,1,2
+Mozambique,Guinea,0,0
+Lesoto,Zambia,1,1
+Tanzania,Marruecos,3,1
+Sudáfrica,República Centroafricana,2,0
+Túnez,Sierra Leona,2,1
+Burkina Faso,Níger,4,0
+Namibia,Malaui,0,1
+Senegal,Angola,1,1
+Costa de Marfil,Gambia,3,0
+Nigeria,Kenia,1,1
+Camerún,Togo,2,1
+Congo,Gabón,1,0
+Australia,Omán,3,0
+Irán,Bahréin,6,0
+Indonesia,Qatar,2,3
+Tailandia,Arabia Saudí,0,0
+Líbano,Kuwait,2,2
+RDP de Corea,Uzbekistán,0,1
+Arabia Saudí,Australia,1,3
+Kuwait,República de Corea,1,1
+Qatar,Irán,1,1
+Singapur,Irak,0,2
+Uzbekistán,Japón,1,1
+Jordania,RP China,2,1
+Indonesia,Bahréin,0,2
+Tailandia,Omán,3,0
+Líbano,Emiratos Árabes Unidos,3,1
+RDP de Corea,Tayikistán,1,0
+Australia,Tailandia,2,1
+Bahréin,Qatar,0,0
+Irán,Indonesia,3,0
+RP China,Singapur,2,1
+República de Corea,Líbano,6,0
+Estonia,Países Bajos,2,2
+Letonia,Lituania,2,1
+Ucrania,San Marino,9,0
+Turquía,Andorra,5,0
+Rumanía,Hungría,3,0
+Kazajstán,Islas Feroe,2,1
+Alemania,Austria,3,0
+Polonia,Montenegro,1,1
+Liechtenstein,Grecia,0,1
+Italia,Bulgaria,1,0
+Serbia,Croacia,1,1
+Suiza,Islandia,4,4
+Eslovenia,Albania,1,0
+Bosnia y Herzegovina,Eslovaquia,0,1
+Inglaterra,Moldavia,4,0
+Malta,Dinamarca,1,2
+Escocia,Bélgica,0,2
+Irlanda del Norte,Portugal,2,4
+República de Irlanda,Suecia,1,2
+Rusia,Luxemburgo,4,1
+Noruega,Chipre,2,0
+Mali,Argelia,2,1
+Guinea,Egipto,2,3
+Libia,Camerún,2,1
+Tanzania,Gambia,2,1
+Liberia,Angola,0,0
+Etiopía,República Centroafricana,2,0
+Ruanda,Benín,1,1
+RD del Congo,Togo,2,0
+Mozambique,Zimbabue,0,0
+Lesoto,Sudán,0,0
+Marruecos,Costa de Marfil,2,2
+Namibia,Kenia,1,0
+Guinea Ecuatorial,Sierra Leona,2,2
+Cabo Verde,Túnez,1,2
+Uganda,Senegal,1,1
+Gabón,Burkina Faso,1,0
+Congo,Níger,1,0
+Zambia,Ghana,1,0
+Botsuana,Sudáfrica,1,1
+Malaui,Nigeria,1,1
+Nigeria,Namibia,1,0
+Emiratos Árabes Unidos,Kuwait,2,3
+Japón,RDP de Corea,1,0
+Omán,Arabia Saudí,0,0
+Irak,Jordania,0,2
+Tayikistán,Uzbekistán,0,1
+Maldivas,Irán,0,1
+Malasia,Singapur,1,1
+Hong Kong,Arabia Saudí,0,5
+Yemen,Irak,0,0
+Vietnam,Qatar,2,1
+Filipinas,Kuwait,1,2
+Indonesia,Turkmenistán,4,3
+India,Emiratos Árabes Unidos,2,2
+Kirguistán,Uzbekistán,0,3
+Laos,RP China,1,6
+Bangladesh,Líbano,2,0
+Palestina,Tailandia,2,2
+Nepal,Jordania,1,1
+Arabia Saudí,Hong Kong,3,0
+Emiratos Árabes Unidos,India,3,0
+Singapur,Malasia,5,3
+ARY de Macedonia,Gales,2,1
+República Checa,Armenia,1,2
+Irlanda del Norte,Rusia,1,0
+Dinamarca,Armenia,0,4
+Bielorrusia,Finlandia,1,1
+Suecia,Islas Feroe,2,0
+Suiza,Chipre,1,0
+Lituania,Grecia,0,1
+Moldavia,Polonia,1,1
+Azerbaiyán,Luxemburgo,1,1
+Portugal,Rusia,1,0
+Bélgica,Serbia,2,1
+República Checa,Italia,0,0
+Austria,Suecia,2,1
+Montenegro,Ucrania,0,4
+Albania,Noruega,1,1
+Croacia,Escocia,0,1
+Armenia,Malta,0,1
+Liechtenstein,Eslovaquia,1,1
+República de Irlanda,Islas Feroe,3,0
+Letonia,Bosnia y Herzegovina,0,5
+Benín,Mali,1,0
+Angola,Uganda,1,1
+Togo,Libia,1,1
+Zimbabue,Guinea,0,1
+Sudáfrica,Etiopía,1,1
+Argelia,Ruanda,4,0
+Túnez,Guinea Ecuatorial,3,1
+Senegal,Liberia,3,1
+Costa de Marfil,Tanzania,2,0
+Sierra Leona,Cabo Verde,2,1
+Gambia,Marruecos,1,1
+Kenia,Malaui,0,0
+Camerún,RD del Congo,1,0
+República Centroafricana,Botsuana,2,0
+Egipto,Mozambique,2,0
+Ghana,Lesoto,7,0
+Etiopía,Somalia,5,0
+Namibia,Yibuti,4,0
+Mozambique,Comoras,4,1
+Tanzania,Chad,0,1
+Kenia,Seychelles,4,0
+Kuwait,Filipinas,3,0
+Irán,Maldivas,4,0
+Qatar,Vietnam,3,0
+Uzbekistán,Kirguistán,4,0
+Jordania,Nepal,9,0
+Irak,Yemen,2,0
+Turkmenistán,Indonesia,1,1
+Tailandia,Palestina,1,0
+Líbano,Bangladesh,4,0
+RP China,Laos,7,2
+Pakistán,Bangladesh,0,0
+Macao,Vietnam,1,7
+Chinese Taipei,Malasia,3,2
+Laos,Camboya,6,2
+Palestina,Afganistán,1,1
+Myanmar,Mongolia,2,0
+Filipinas,Sri Lanka,4,0
+Timor Oriental,Nepal,0,5
+Malasia,Chinese Taipei,2,1
+Vietnam,Macao,6,0
+Mongolia,Myanmar,1,0
+Finlandia,Bielorrusia,1,0
+Islandia,Eslovenia,2,4
+Azerbaiyán,Portugal,0,2
+Ucrania,Moldavia,2,1
+Montenegro,Inglaterra,1,1
+Francia,España,0,1
+Alemania,Kazajstán,4,1
+Polonia,San Marino,5,0
+Malta,Italia,0,2
+Bélgica,ARY de Macedonia,1,0
+Serbia,Escocia,2,0
+Países Bajos,Rumanía,4,0
+Turquía,Hungría,1,1
+Dinamarca,Bulgaria,1,1
+Armenia,República Checa,0,3
+Gales,Croacia,1,2
+Irlanda del Norte,Israel,0,2
+Madagascar,Guinea Ecuatorial,2,1
+Congo,Santo Tomé y Príncipe,1,1
+RD del Congo,Suazilandia,5,1
+Ruanda,Eritrea,3,1
+Togo,Guinea-Bissáu,1,0
+Burundi,Lesoto,2,2
+Somalia,Etiopía,0,0
+Lesoto,Burundi,1,0
+Seychelles,Kenia,0,3
+Guinea-Bissáu,Togo,1,1
+Guinea Ecuatorial,Madagascar,2,0
+Chad,Tanzania,1,2
+Suazilandia,RD del Congo,1,3
+Eritrea,Ruanda,1,1
+Yibuti,Namibia,0,4
+Comoras,Mozambique,0,1
+Santo Tomé y Príncipe,Congo,0,5
+Bangladesh,Pakistán,3,0
+Afganistán,Palestina,0,2
+Sri Lanka,Filipinas,1,1
+Nepal,Timor Oriental,2,1
+Camboya,Laos,4,2
+República de Irlanda,Austria,2,2
+Estonia,Andorra,2,0
+Chipre,Suiza,0,0
+Kazajstán,Alemania,0,3
+Moldavia,Montenegro,0,1
+Francia,Georgia,3,1
+San Marino,Inglaterra,0,8
+España,Finlandia,1,1
+Suecia,República de Irlanda,0,0
+Polonia,Ucrania,1,3
+Bosnia y Herzegovina,Grecia,3,1
+ARY de Macedonia,Bélgica,0,2
+República Checa,Dinamarca,0,3
+Países Bajos,Estonia,3,0
+Hungría,Rumanía,2,2
+Austria,Islas Feroe,6,0
+Luxemburgo,Azerbaiyán,0,0
+Eslovaquia,Lituania,1,1
+Escocia,Gales,1,2
+Liechtenstein,Letonia,1,1
+Andorra,Turquía,0,2
+Noruega,Albania,0,1
+Bulgaria,Malta,6,0
+Croacia,Serbia,2,0
+Eslovenia,Islandia,1,2
+Israel,Portugal,3,3
+Irlanda del Norte,Azerbaiyán,1,1
+Montenegro,San Marino,3,0
+Polonia,Inglaterra,1,1
+Chipre,Noruega,1,3
+España,Francia,1,1
+Ucrania,Montenegro,0,1
+Rumanía,Países Bajos,1,4
+Alemania,Suecia,4,4
+Albania,Eslovenia,1,0
+Portugal,Irlanda del Norte,1,1
+Nueva Zelanda,México,2,4
+México,Nueva Zelanda,5,1
+Jamaica,Honduras,2,2
+Panamá,EEUU,2,3
+Costa Rica,México,2,1
+México,Panamá,2,1
+EEUU,Jamaica,2,0
+Honduras,Costa Rica,1,0
+EEUU,México,2,0
+Honduras,Panamá,2,2
+Jamaica,Costa Rica,1,1
+Panamá,Jamaica,0,0
+México,Honduras,1,2
+Costa Rica,EEUU,3,1
+Costa Rica,Panamá,2,0
+EEUU,Honduras,1,0
+EEUU,Panamá,2,0
+México,Costa Rica,0,0
+Honduras,Jamaica,2,0
+Panamá,México,0,0
+Jamaica,EEUU,1,2
+Bélgica,Escocia,2,0
+Italia,Dinamarca,3,1
+Austria,Kazajstán,4,0
+Hungría,Turquía,3,1
+ARY de Macedonia,Serbia,1,0
+Eslovaquia,Grecia,0,1
+San Marino,Moldavia,0,2
+Croacia,Gales,2,0
+República Checa,Bulgaria,0,0
+Letonia,Liechtenstein,2,0
+Bosnia y Herzegovina,Lituania,3,0
+Bielorrusia,Georgia,2,0
+Andorra,Estonia,0,1
+Islas Feroe,República de Irlanda,1,4
+Rusia,Azerbaiyán,1,0
+Islandia,Suiza,0,2
+Israel,Luxemburgo,3,0
+Kazajstán,Austria,0,0
+Grecia,Bosnia y Herzegovina,0,0
+Estonia,Hungría,0,1
+Costa Rica,Honduras,1,0
+Jamaica,México,0,1
+Panamá,Honduras,2,0
+México,EEUU,0,0
+Costa Rica,Jamaica,2,0
+Jamaica,Panamá,1,1
+EEUU,Costa Rica,1,0
+Honduras,México,2,2
+Panamá,Costa Rica,2,2
+México,Jamaica,0,0
+Honduras,EEUU,2,1
+México,El Salvador,2,0
+Costa Rica,Guyana,7,0
+Jamaica,Antigua y Barbuda,4,1
+EEUU,Guatemala,3,1
+Cuba,Panamá,1,1
+Honduras,Canadá,8,1
+Panamá,Honduras,0,0
+Guyana,México,0,5
+Guatemala,Jamaica,2,1
+Canadá,Cuba,3,0
+Nueva Zelanda,México,2,4
+México,Nueva Zelanda,5,1
+Nueva Caledonia,Tahití,1,0
+Islas Salomón,Nueva Zelanda,0,2
+Tahití,Islas Salomón,2,0
+Nueva Zelanda,Nueva Caledonia,2,1
+Nueva Zelanda,Tahití,3,0
+Nueva Caledonia,Islas Salomón,5,0
+Tahití,Nueva Zelanda,0,2
+Islas Salomón,Nueva Caledonia,2,6
+Tahití,Nueva Caledonia,0,4
+Nueva Zelanda,Islas Salomón,6,1
+Nueva Caledonia,Nueva Zelanda,0,2
+Islas Salomón,Tahití,2,0
+Tahití,Nueva Caledonia,1,0
+Islas Salomón,Nueva Zelanda,3,4
+Nueva Zelanda,Nueva Caledonia,0,2
+Tahití,Islas Salomón,1,0
+Nueva Zelanda,Islas Salomón,1,1
+Papúa Nueva Guinea,Fiyi,1,1
+Tahití,Vanuatu,4,1
+Moldavia,Ucrania,0,0
+Bielorrusia,España,0,4
+Luxemburgo,Israel,0,6
+Bulgaria,Dinamarca,1,1
+Armenia,Italia,1,3
+Eslovenia,Chipre,2,1
+Suiza,Noruega,1,1
+ARY de Macedonia,Croacia,1,2
+Serbia,Bélgica,0,3
+Turquía,Rumanía,0,1
+Países Bajos,Andorra,3,0
+Eslovaquia,Letonia,2,1
+Inglaterra,San Marino,5,0
+Gales,Escocia,2,1
+República de Irlanda,Alemania,1,6
+Liechtenstein,Lituania,0,2
+Albania,Islandia,1,2
+Rusia,Portugal,1,0
+Finlandia,Georgia,1,1
+República Checa,Malta,3,1
+Islas Feroe,Suecia,1,2
+El Salvador,Costa Rica,0,1
+Antigua y Barbuda,EEUU,1,2
+EEUU,Jamaica,1,0
+Panamá,Canadá,2,0
+México,Costa Rica,1,0
+Guyana,El Salvador,2,3
+Honduras,Cuba,1,0
+Antigua y Barbuda,Guatemala,0,1
+Costa Rica,México,0,2
+Guatemala,Antigua y Barbuda,3,1
+Canadá,Panamá,1,0
+El Salvador,Guyana,2,2
+Jamaica,EEUU,2,1
+Cuba,Honduras,0,3
+Panamá,Cuba,1,0
+Guyana,Costa Rica,0,4
+Guatemala,EEUU,1,1
+Canadá,Honduras,0,0
+El Salvador,México,1,2
+Antigua y Barbuda,Jamaica,0,0
+Jamaica,Guatemala,2,1
+Nueva Caledonia,Samoa,9,0
+Fiyi,Islas Salomón,0,0
+Papúa Nueva Guinea,Nueva Zelanda,1,2
+Tahití,Nueva Caledonia,4,3
+Vanuatu,Samoa,5,0
+Islas Salomón,Papúa Nueva Guinea,1,0
+Fiyi,Nueva Zelanda,0,1
+Vanuatu,Nueva Caledonia,2,5
+Samoa,Tahití,1,10
+Samoa,Samoa Estadounidense,1,0
+Tonga,Islas Cook,2,1
+Samoa,Tonga,1,1
+Samoa Estadounidense,Islas Cook,1,1
+Islas Cook,Samoa,2,3
+Samoa Estadounidense,Tonga,2,1
+Grecia,Lituania,2,0
+Georgia,España,0,1
+Francia,Bielorrusia,3,1
+Turquía,Estonia,3,0
+Bulgaria,Armenia,1,0
+Italia,Malta,2,0
+Bélgica,Croacia,1,1
+Polonia,Moldavia,2,0
+Austria,Alemania,1,2
+Suecia,Kazajstán,2,0
+Rumanía,Andorra,4,0
+Hungría,Países Bajos,1,4
+San Marino,Montenegro,0,6
+Serbia,Gales,6,1
+Suiza,Albania,2,0
+Portugal,Azerbaiyán,3,0
+Eslovaquia,Liechtenstein,2,0
+Bosnia y Herzegovina,Letonia,4,1
+Chipre,Islandia,1,0
+Inglaterra,Ucrania,1,1
+Costa Rica,El Salvador,2,2
+Honduras,Panamá,0,2
+EEUU,Antigua y Barbuda,3,1
+México,Guyana,3,1
+Cuba,Canadá,0,1
+Panamá,Dominica,3,0
+Curazao,Islas Vírgenes Estadounidenses,6,1
+El Salvador,Surinam,4,0
+Canadá,San Cristóbal y Nieves,4,0
+San Vicente y las Granadinas,Belice,0,2
+Granada,Guatemala,1,4
+Haití,Antigua y Barbuda,2,1
+Puerto Rico,Santa Lucía,3,0
+Barbados,Bermudas,1,2
+Islas Caimán,República Dominicana,1,1
+Surinam,El Salvador,1,3
+Guyana,Trinidad y Tobago,2,1
+San Cristóbal y Nieves,Canadá,0,0
+Guatemala,Granada,3,0
+Antigua y Barbuda,Haití,1,0
+Nicaragua,Dominica,1,0
+Israel,Rusia,0,4
+Noruega,Eslovenia,2,1
+Escocia,ARY de Macedonia,1,1
+Irlanda del Norte,Luxemburgo,1,1
+Dinamarca,República Checa,0,0
+Escocia,Serbia,0,0
+Kazajstán,República de Irlanda,1,2
+Bulgaria,Italia,2,2
+Moldavia,Inglaterra,0,5
+Letonia,Grecia,1,2
+Finlandia,Francia,0,1
+Lituania,Eslovaquia,1,1
+Georgia,Bielorrusia,1,0
+Estonia,Rumanía,0,2
+Azerbaiyán,Israel,1,1
+Luxemburgo,Portugal,1,2
+Alemania,Islas Feroe,3,0
+Montenegro,Polonia,2,2
+Países Bajos,Turquía,2,0
+Andorra,Hungría,0,5
+Eslovenia,Suiza,0,2
+Islas Vírgenes Estadounidenses,Curazao,0,3
+Belice,San Vicente y las Granadinas,1,1
+República Dominicana,Islas Caimán,4,0
+Bermudas,Barbados,2,1
+Granada,San Vicente y las Granadinas,1,1
+Guatemala,Belice,3,1
+San Cristóbal y Nieves,Santa Lucía,1,1
+Panamá,Nicaragua,5,1
+Bermudas,Guyana,1,1
+El Salvador,Islas Caimán,4,0
+Canadá,Puerto Rico,0,0
+Antigua y Barbuda,Islas Vírgenes Estadounidenses,10,0
+Surinam,República Dominicana,1,3
+Trinidad y Tobago,Barbados,4,0
+Haití,Curazao,2,2
+Puerto Rico,San Cristóbal y Nieves,1,1
+Bermudas,Trinidad y Tobago,2,1
+Islas Caimán,Surinam,0,1
+Dominica,Panamá,0,5
+Barbados,Guyana,0,2
+Islas Vírgenes Estadounidenses,Haití,0,7
+Albania,Chipre,3,1
+Croacia,ARY de Macedonia,1,0
+Malta,Armenia,0,1
+Gales,Bélgica,0,2
+Rusia,Irlanda del Norte,2,0
+Liechtenstein,Bosnia y Herzegovina,1,8
+Islandia,Noruega,2,0
+Belice,Granada,1,4
+República Dominicana,El Salvador,1,2
+San Vicente y las Granadinas,Guatemala,0,3
+San Vicente y las Granadinas,Granada,2,1
+Puerto Rico,Canadá,0,3
+Guyana,Bermudas,2,1
+Curazao,Haití,2,4
+Islas Caimán,El Salvador,1,4
+Nicaragua,Panamá,1,2
+Santa Lucía,San Cristóbal y Nieves,2,4
+Belice,Guatemala,1,2
+Barbados,Trinidad y Tobago,0,2
+Islas Vírgenes Estadounidenses,Antigua y Barbuda,1,8
+República Dominicana,Surinam,1,1
+Canadá,Santa Lucía,4,1
+Guatemala,San Vicente y las Granadinas,4,0
+San Cristóbal y Nieves,Puerto Rico,0,0
+Guyana,Barbados,2,0
+El Salvador,República Dominicana,3,2
+Antigua y Barbuda,Curazao,5,2
+Dominica,Nicaragua,0,2
+Surinam,Islas Caimán,1,0
+Trinidad y Tobago,Bermudas,1,0
+Granada,Belice,0,3
+Haití,Islas Vírgenes Estadounidenses,6,0
+Belice,Montserrat,3,1
+Santa Lucía,Aruba,4,2
+República Dominicana,Anguila,4,0
+Islas Vírgenes Británicas,Islas Vírgenes Estadounidenses,1,2
+Bahamas,Turcas y Caicos,6,0
+Aruba,Santa Lucía,4,2
+Anguila,República Dominicana,0,2
+Islas Vírgenes Estadounidenses,Islas Vírgenes Británicas,2,0
+Turcas y Caicos,Bahamas,0,4
+Montserrat,Belice,2,5
