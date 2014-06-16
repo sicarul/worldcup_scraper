@@ -11,4 +11,5 @@ class MatchResultItem(Item):
     away = Field()
     scoreHome = Field()
     scoreAway = Field()
+    area = Field()
     pass

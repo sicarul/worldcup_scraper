@@ -1,7 +1,13 @@
-setwd('/home/sicarul/Dev/worldcup_scraper')
+setwd('/home/sicarul/dev/worldcup')
 library(igraph)
+library(plyr)
 
 input <- read.csv('preliminary.csv')
+
+areaCount <- ddply(input,.(area), summarise, count = length(area))
+
+areaMap <- areaCount$count
+names(areaMap) <- areaCount$area
 
 input$home <- as.character(input$home)
 input$away <- as.character(input$away)
@@ -11,22 +17,28 @@ allnames <- unique(c(input$home, input$away))
 teamMap <- 1:length(allnames)
 names(teamMap) <- allnames
 
+mapBack <- names(teamMap)
+names(mapBack) <- teamMap
+
 team_translate <- function(x) {return (as.numeric(teamMap[x]))}
+team_translate_back <- function(x) {return (mapBack[x])}
+area_count <- function(x) {return (as.numeric(areaMap[x]))}
+
+input$area_count <- area_count(input$area)
 
 homewins <- subset(input, scoreHome > scoreAway)
 awaywins <- subset(input, scoreHome < scoreAway)
 
-graph_data <- data.frame(from=c(awaywins$home, homewins$away), to=c(awaywins$away, homewins$home))
-graph_data$from <- team_translate(graph_data$from)
-graph_data$to <- team_translate(graph_data$to)
+graph_data <- data.frame(from=c(awaywins$home, homewins$away), to=c(awaywins$away, homewins$home), weight=36/c(awaywins$area_count, homewins$area_count))
 
-gteam <- graph.edgelist(as.matrix(graph_data))
+gteam <- graph.data.frame(graph_data)
 
 (b1 <- betweenness(gteam, directed = TRUE))
 (c1 <- closeness(gteam, mode = "out"))
 (d1 <- degree(gteam, mode = "out"))
 
 tkplot(gteam)
+
 
 classif <-c('Camerún',
   'México',
@@ -60,10 +72,12 @@ classif <-c('Camerún',
   'República de Corea',
   'Rusia')
 
-classif_ids = as.numeric(Map(team_translate, classif))
-subset(classif_ids, is.na(classif_ids) == TRUE)
 
-pr <- page.rank(gteam, vids = classif_ids)
+classif_ids = team_translate(classif)
+interest <- intersect(classif_ids, as.numeric(V(gteam)))
 
-join <- data.frame(equipo = classif, page_rank = pr$vector)
-final <- join[order(join[,2], decreasing=TRUE),]
+pr <- page.rank(gteam, vids = classif)
+
+
+join <- pr$vector
+sort(join, decreasing=TRUE)

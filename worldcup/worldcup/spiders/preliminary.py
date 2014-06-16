@@ -39,6 +39,7 @@ class PreliminarySpider(Spider):
 
             it['scoreHome'] = score[0]
             it['scoreAway'] = score[1]
+            it['area'] = response.request.url.split('/')[-2]
 
             ret.append(it)
         except Exception:
