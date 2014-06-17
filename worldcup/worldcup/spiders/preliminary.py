@@ -20,7 +20,8 @@ class PreliminarySpider(Spider):
 'http://es.fifa.com/worldcup/matches/preliminaries/europe/index.html',
 'http://es.fifa.com/worldcup/matches/preliminaries/nccamerica/index.html',
 'http://es.fifa.com/worldcup/matches/preliminaries/oceania/index.html',
-'http://es.fifa.com/worldcup/matches/preliminaries/southamerica/index.html']
+'http://es.fifa.com/worldcup/matches/preliminaries/southamerica/index.html',
+'http://es.fifa.com/worldcup/matches/']
 
 
   def parse(self, response):
