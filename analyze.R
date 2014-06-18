@@ -80,14 +80,23 @@ classif <-c('Camerún',
   'Brasil')
 
 
-pr <- page.rank(gteam, vids=classif)
+pr <- page.rank(gteam)
 
-subgteam <- induced.subgraph(gteam, classif)
-png('graph.png', width=1024, height=768)
+resized <- gteam
+V(resized)$size <- pr$vector*1000
+
+subgteam <- induced.subgraph(resized, classif)
+png('graph_subset.png', width=1024, height=768)
 plot(subgteam, layout=layout.fruchterman.reingold, frame=TRUE)
 dev.off()
+png('graph_all.png', width=1600, height=900)
+plot(resized, layout=layout.fruchterman.reingold, frame=TRUE)
+dev.off()
 
-join <- pr$vector
+#tkplot(subgteam)
+
+
+join <- pr$vector[classif]
 final <- sort(join, decreasing=TRUE)
 final_out <- data.frame(equipos=names(final), pagerank=as.numeric(final)*10000)
 
