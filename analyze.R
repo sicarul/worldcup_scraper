@@ -43,7 +43,7 @@ gteam <- graph.data.frame(sum_graph_data)
 (c1 <- closeness(gteam, mode = "out"))
 (d1 <- degree(gteam, mode = "out"))
 
-tkplot(gteam)
+#tkplot(gteam)
 
 
 classif <-c('Camerún',
@@ -82,17 +82,13 @@ classif <-c('Camerún',
 
 pr <- page.rank(gteam, vids=classif)
 
-V(gteam)$size <- pr$vector * 1000
-
-tkplot(gteam)
-
-#subgraph <- induced.subgraph(gteam, classif)
-#V(subgraph)$size <- pr$vector * 1000
-
-
+subgteam <- induced.subgraph(gteam, classif)
+png('graph.png', width=1024, height=768)
+plot(subgteam, layout=layout.fruchterman.reingold, frame=TRUE)
+dev.off()
 
 join <- pr$vector
 final <- sort(join, decreasing=TRUE)
-final_out <- data.frame(equipos=names(final), pagerank=as.numeric(final))
+final_out <- data.frame(equipos=names(final), pagerank=as.numeric(final)*10000)
 
 write.csv(final_out, file='pagerank.csv', row.names=FALSE)
