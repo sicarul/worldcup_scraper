@@ -1,714 +1,750 @@
 home,away,area,scoreHome,scoreAway
+Bélgica,Rusia,matches,1,0
+República de Corea,Argelia,matches,2,4
+EEUU,Portugal,matches,2,2
 Inglaterra,Italia,matches,1,2
 Brasil,Croacia,matches,3,1
+Bélgica,Rusia,africa,1,0
+República de Corea,Argelia,africa,2,4
+EEUU,Portugal,africa,2,2
+Bélgica,Rusia,nccamerica,1,0
+República de Corea,Argelia,nccamerica,2,4
+EEUU,Portugal,nccamerica,2,2
+Bélgica,Rusia,oceania,1,0
+República de Corea,Argelia,oceania,2,4
+EEUU,Portugal,oceania,2,2
 México,Camerún,matches,1,0
 España,Países Bajos,matches,1,5
 Chile,Australia,matches,3,1
 Colombia,Grecia,matches,3,0
-Uruguay,Costa Rica,matches,1,3
-Inglaterra,Italia,matches,1,2
-Costa de Marfil,Japón,matches,2,1
-Suiza,Ecuador,matches,2,1
-Francia,Honduras,matches,3,0
-Argentina,Bosnia y Herzegovina,matches,2,1
-Alemania,Portugal,matches,4,0
-Irán,Nigeria,matches,0,0
-Ghana,EEUU,matches,1,2
-Bélgica,Argelia,matches,2,1
-Brasil,México,matches,0,0
-Rusia,República de Corea,matches,1,1
-Inglaterra,Italia,southamerica,1,2
-Uruguay,Jordania,southamerica,0,0
-Jordania,Uruguay,southamerica,0,5
-Uruguay,Argentina,southamerica,3,2
-Perú,Bolivia,southamerica,1,1
-Paraguay,Colombia,southamerica,1,2
-Chile,Ecuador,southamerica,2,1
-Argentina,Perú,southamerica,3,1
-Venezuela,Paraguay,southamerica,1,1
-Ecuador,Uruguay,southamerica,1,0
-Colombia,Chile,southamerica,3,3
-Paraguay,Argentina,southamerica,2,5
-Venezuela,Perú,southamerica,3,2
-Uruguay,Colombia,southamerica,2,0
-Bolivia,Ecuador,southamerica,1,1
-Perú,Uruguay,southamerica,1,2
-Chile,Venezuela,southamerica,3,0
-Paraguay,Bolivia,southamerica,4,0
-Colombia,Ecuador,southamerica,1,0
-Chile,Bolivia,southamerica,3,1
-Venezuela,Uruguay,southamerica,0,1
-Ecuador,Argentina,southamerica,1,1
-Colombia,Perú,southamerica,2,0
-Perú,Ecuador,southamerica,1,0
-Paraguay,Chile,southamerica,1,2
-Argentina,Colombia,southamerica,0,0
-Bolivia,Venezuela,southamerica,1,1
-Chile,Uruguay,southamerica,2,0
-Venezuela,Colombia,southamerica,1,0
-Ecuador,Paraguay,southamerica,4,1
-Bolivia,Argentina,southamerica,1,1
-Perú,Chile,southamerica,1,0
-Argentina,Venezuela,southamerica,3,0
-Uruguay,Paraguay,southamerica,1,1
-Colombia,Bolivia,southamerica,5,0
-Chile,Argentina,southamerica,1,2
-Paraguay,Perú,southamerica,1,0
-Venezuela,Ecuador,southamerica,1,1
-Bolivia,Uruguay,southamerica,4,1
-Argentina,Uruguay,southamerica,3,0
-Ecuador,Chile,southamerica,3,1
-Bolivia,Perú,southamerica,1,1
-Colombia,Paraguay,southamerica,2,0
-Perú,Argentina,southamerica,1,1
-Paraguay,Venezuela,southamerica,0,2
-Uruguay,Ecuador,southamerica,1,1
-Chile,Colombia,southamerica,1,3
-Perú,Venezuela,southamerica,2,1
-Argentina,Paraguay,southamerica,3,1
-Ecuador,Bolivia,southamerica,1,0
-Colombia,Uruguay,southamerica,4,0
-Ecuador,Colombia,southamerica,1,0
-Uruguay,Perú,southamerica,4,2
-Venezuela,Chile,southamerica,0,2
-Bolivia,Paraguay,southamerica,3,1
-Perú,Colombia,southamerica,0,1
-Argentina,Ecuador,southamerica,4,0
-Bolivia,Chile,southamerica,0,2
-Inglaterra,Italia,oceania,1,2
-Nueva Zelanda,México,oceania,2,4
-México,Nueva Zelanda,oceania,5,1
-Nueva Caledonia,Tahití,oceania,1,0
-Islas Salomón,Nueva Zelanda,oceania,0,2
-Tahití,Islas Salomón,oceania,2,0
-Nueva Zelanda,Nueva Caledonia,oceania,2,1
-Nueva Zelanda,Tahití,oceania,3,0
-Nueva Caledonia,Islas Salomón,oceania,5,0
-Tahití,Nueva Zelanda,oceania,0,2
-Uruguay,Venezuela,southamerica,1,1
-Venezuela,Bolivia,southamerica,1,0
-Chile,Paraguay,southamerica,2,0
-Colombia,Argentina,southamerica,1,2
-Ecuador,Perú,southamerica,2,0
-Paraguay,Ecuador,southamerica,2,1
-Uruguay,Chile,southamerica,4,0
-Colombia,Venezuela,southamerica,1,1
-Argentina,Bolivia,southamerica,1,1
-Islas Salomón,Nueva Caledonia,oceania,2,6
-Tahití,Nueva Caledonia,oceania,0,4
-Nueva Zelanda,Islas Salomón,oceania,6,1
-Nueva Caledonia,Nueva Zelanda,oceania,0,2
-Islas Salomón,Tahití,oceania,2,0
-Tahití,Nueva Caledonia,oceania,1,0
-Islas Salomón,Nueva Zelanda,oceania,3,4
-Nueva Zelanda,Nueva Caledonia,oceania,0,2
-Tahití,Islas Salomón,oceania,1,0
-Venezuela,Argentina,southamerica,1,0
-Chile,Perú,southamerica,4,2
-Paraguay,Uruguay,southamerica,1,1
-Bolivia,Colombia,southamerica,1,2
-Perú,Paraguay,southamerica,2,0
-Argentina,Chile,southamerica,4,1
-Uruguay,Bolivia,southamerica,4,2
-Ecuador,Venezuela,southamerica,2,0
-Nueva Zelanda,Islas Salomón,oceania,1,1
-Papúa Nueva Guinea,Fiyi,oceania,1,1
-Tahití,Vanuatu,oceania,4,1
-Nueva Caledonia,Samoa,oceania,9,0
-Fiyi,Islas Salomón,oceania,0,0
-Papúa Nueva Guinea,Nueva Zelanda,oceania,1,2
-Tahití,Nueva Caledonia,oceania,4,3
-Vanuatu,Samoa,oceania,5,0
-Islas Salomón,Papúa Nueva Guinea,oceania,1,0
-Fiyi,Nueva Zelanda,oceania,0,1
-Vanuatu,Nueva Caledonia,oceania,2,5
-Samoa,Tahití,oceania,1,10
-Samoa,Samoa Estadounidense,oceania,1,0
-Tonga,Islas Cook,oceania,2,1
-Samoa,Tonga,oceania,1,1
-Samoa Estadounidense,Islas Cook,oceania,1,1
-Islas Cook,Samoa,oceania,2,3
-Samoa Estadounidense,Tonga,oceania,2,1
 Inglaterra,Italia,africa,1,2
 Argelia,Burkina Faso,africa,1,0
 Egipto,Ghana,africa,2,1
-Camerún,Túnez,africa,4,1
-Senegal,Costa de Marfil,africa,1,1
-Nigeria,Etiopía,africa,2,0
-Ghana,Egipto,africa,6,1
-Túnez,Camerún,africa,0,0
-Etiopía,Nigeria,africa,1,2
-Costa de Marfil,Senegal,africa,3,1
-Burkina Faso,Argelia,africa,3,2
-Argelia,Mali,africa,1,0
-Egipto,Guinea,africa,4,2
-Sudán,Lesoto,africa,1,3
-Benín,Ruanda,africa,2,0
-Kenia,Namibia,africa,1,0
-Camerún,Libia,africa,1,0
 Inglaterra,Italia,nccamerica,1,2
 Nueva Zelanda,México,nccamerica,2,4
 México,Nueva Zelanda,nccamerica,5,1
 Jamaica,Honduras,nccamerica,2,2
+Inglaterra,Italia,oceania,1,2
+Nueva Zelanda,México,oceania,2,4
+México,Nueva Zelanda,oceania,5,1
+Bélgica,Rusia,europe,1,0
+República de Corea,Argelia,europe,2,4
+EEUU,Portugal,europe,2,2
+Bélgica,Rusia,asia,1,0
+República de Corea,Argelia,asia,2,4
+EEUU,Portugal,asia,2,2
+Inglaterra,Italia,asia,1,2
+Bélgica,Rusia,southamerica,1,0
+República de Corea,Argelia,southamerica,2,4
+EEUU,Portugal,southamerica,2,2
+Uruguay,Costa Rica,matches,1,3
+Inglaterra,Italia,matches,1,2
+Costa de Marfil,Japón,matches,2,1
+Camerún,Túnez,africa,4,1
+Senegal,Costa de Marfil,africa,1,1
+Nigeria,Etiopía,africa,2,0
 Panamá,EEUU,nccamerica,2,3
 Costa Rica,México,nccamerica,2,1
 México,Panamá,nccamerica,2,1
-EEUU,Jamaica,nccamerica,2,0
-Honduras,Costa Rica,nccamerica,1,0
-Togo,RD del Congo,africa,2,1
-Zimbabue,Mozambique,africa,1,1
-Senegal,Uganda,africa,1,0
-Costa de Marfil,Marruecos,africa,1,1
-Gambia,Tanzania,africa,2,0
-Níger,Congo,africa,2,2
-Sierra Leona,Guinea Ecuatorial,africa,3,2
-Nigeria,Malaui,africa,2,0
-EEUU,México,nccamerica,2,0
-Honduras,Panamá,nccamerica,2,2
-Jamaica,Costa Rica,nccamerica,1,1
-Panamá,Jamaica,nccamerica,0,0
-México,Honduras,nccamerica,1,2
-Costa Rica,EEUU,nccamerica,3,1
-Costa Rica,Panamá,nccamerica,2,0
-EEUU,Honduras,nccamerica,1,0
-Burkina Faso,Gabón,africa,1,0
-Sudáfrica,Botsuana,africa,4,1
-República Centroafricana,Etiopía,africa,1,2
-Ghana,Zambia,africa,2,1
-Mali,Benín,africa,2,2
-Guinea,Zimbabue,africa,1,0
-Guinea Ecuatorial,Túnez,africa,1,1
-Etiopía,Sudáfrica,africa,2,1
-Liberia,Senegal,africa,0,2
-EEUU,Panamá,nccamerica,2,0
-México,Costa Rica,nccamerica,0,0
-Honduras,Jamaica,nccamerica,2,0
-Panamá,México,nccamerica,0,0
-Jamaica,EEUU,nccamerica,1,2
-Costa Rica,Honduras,nccamerica,1,0
-Jamaica,México,nccamerica,0,1
-Panamá,Honduras,nccamerica,2,0
-México,EEUU,nccamerica,0,0
-Ruanda,Argelia,africa,0,1
-RD del Congo,Camerún,africa,0,0
-Tanzania,Costa de Marfil,africa,2,4
-Lesoto,Ghana,africa,0,2
-Mozambique,Egipto,africa,0,1
-Marruecos,Gambia,africa,2,0
-Cabo Verde,Sierra Leona,africa,1,0
-Uganda,Angola,africa,2,1
-Gabón,Níger,africa,4,1
-Congo,Burkina Faso,africa,0,1
-Costa Rica,Jamaica,nccamerica,2,0
-Jamaica,Panamá,nccamerica,1,1
-EEUU,Costa Rica,nccamerica,1,0
-Honduras,México,nccamerica,2,2
-Panamá,Costa Rica,nccamerica,2,2
-México,Jamaica,nccamerica,0,0
-Honduras,EEUU,nccamerica,2,1
-México,El Salvador,nccamerica,2,0
-Costa Rica,Guyana,nccamerica,7,0
-Zambia,Sudán,africa,1,1
-Botsuana,República Centroafricana,africa,3,2
-Libia,Togo,africa,2,0
-Namibia,Nigeria,africa,1,1
-Malaui,Kenia,africa,2,2
-Mali,Ruanda,africa,1,1
-Guinea,Mozambique,africa,6,1
-Benín,Argelia,africa,1,3
-Níger,Burkina Faso,africa,0,1
-Zimbabue,Egipto,africa,2,4
-Jamaica,Antigua y Barbuda,nccamerica,4,1
-EEUU,Guatemala,nccamerica,3,1
-Cuba,Panamá,nccamerica,1,1
-Honduras,Canadá,nccamerica,8,1
-Panamá,Honduras,nccamerica,0,0
-Guyana,México,nccamerica,0,5
-Guatemala,Jamaica,nccamerica,2,1
-Canadá,Cuba,nccamerica,3,0
-El Salvador,Costa Rica,nccamerica,0,1
-Antigua y Barbuda,EEUU,nccamerica,1,2
-Marruecos,Tanzania,africa,2,1
-Gambia,Costa de Marfil,africa,0,3
-Sierra Leona,Túnez,africa,2,2
-Uganda,Liberia,africa,1,0
-Angola,Senegal,africa,1,1
-Gabón,Congo,africa,0,0
-Zambia,Lesoto,africa,4,0
-República Centroafricana,Sudáfrica,africa,0,3
-Sudán,Ghana,africa,1,3
-EEUU,Jamaica,nccamerica,1,0
-Panamá,Canadá,nccamerica,2,0
-México,Costa Rica,nccamerica,1,0
-Guyana,El Salvador,nccamerica,2,3
-Honduras,Cuba,nccamerica,1,0
-Antigua y Barbuda,Guatemala,nccamerica,0,1
-Costa Rica,México,nccamerica,0,2
-Guatemala,Antigua y Barbuda,nccamerica,3,1
-Canadá,Panamá,nccamerica,1,0
-El Salvador,Guyana,nccamerica,2,2
-Libia,RD del Congo,africa,0,0
-Kenia,Nigeria,africa,0,1
-Malaui,Namibia,africa,0,0
-Argelia,Benín,africa,3,1
-Egipto,Zimbabue,africa,2,1
-Liberia,Uganda,africa,2,0
-Ghana,Sudán,africa,4,0
-Etiopía,Botsuana,africa,1,0
-RD del Congo,Libia,africa,0,0
-Ruanda,Mali,africa,1,2
-Jamaica,EEUU,nccamerica,2,1
-Cuba,Honduras,nccamerica,0,3
-Panamá,Cuba,nccamerica,1,0
-Guyana,Costa Rica,nccamerica,0,4
-Guatemala,EEUU,nccamerica,1,1
-Canadá,Honduras,nccamerica,0,0
-El Salvador,México,nccamerica,1,2
-Antigua y Barbuda,Jamaica,nccamerica,0,0
-Jamaica,Guatemala,nccamerica,2,1
-Mozambique,Guinea,africa,0,0
-Lesoto,Zambia,africa,1,1
-Tanzania,Marruecos,africa,3,1
-Sudáfrica,República Centroafricana,africa,2,0
-Túnez,Sierra Leona,africa,2,1
-Burkina Faso,Níger,africa,4,0
-Namibia,Malaui,africa,0,1
-Senegal,Angola,africa,1,1
-Costa de Marfil,Gambia,africa,3,0
-Nigeria,Kenia,africa,1,1
-Costa Rica,El Salvador,nccamerica,2,2
-Honduras,Panamá,nccamerica,0,2
-EEUU,Antigua y Barbuda,nccamerica,3,1
-México,Guyana,nccamerica,3,1
-Cuba,Canadá,nccamerica,0,1
-Panamá,Dominica,nccamerica,3,0
-Curazao,Islas Vírgenes Estadounidenses,nccamerica,6,1
-El Salvador,Surinam,nccamerica,4,0
-Canadá,San Cristóbal y Nieves,nccamerica,4,0
-San Vicente y las Granadinas,Belice,nccamerica,0,2
-Camerún,Togo,africa,2,1
-Congo,Gabón,africa,1,0
-Mali,Argelia,africa,2,1
-Guinea,Egipto,africa,2,3
-Libia,Camerún,africa,2,1
-Tanzania,Gambia,africa,2,1
-Liberia,Angola,africa,0,0
-Etiopía,República Centroafricana,africa,2,0
-Ruanda,Benín,africa,1,1
-Granada,Guatemala,nccamerica,1,4
-Haití,Antigua y Barbuda,nccamerica,2,1
-Puerto Rico,Santa Lucía,nccamerica,3,0
-Barbados,Bermudas,nccamerica,1,2
-Islas Caimán,República Dominicana,nccamerica,1,1
-Surinam,El Salvador,nccamerica,1,3
-Guyana,Trinidad y Tobago,nccamerica,2,1
-San Cristóbal y Nieves,Canadá,nccamerica,0,0
-Guatemala,Granada,nccamerica,3,0
-RD del Congo,Togo,africa,2,0
-Mozambique,Zimbabue,africa,0,0
-Lesoto,Sudán,africa,0,0
-Marruecos,Costa de Marfil,africa,2,2
-Namibia,Kenia,africa,1,0
-Guinea Ecuatorial,Sierra Leona,africa,2,2
-Cabo Verde,Túnez,africa,1,2
-Uganda,Senegal,africa,1,1
-Gabón,Burkina Faso,africa,1,0
-Congo,Níger,africa,1,0
-Antigua y Barbuda,Haití,nccamerica,1,0
-Nicaragua,Dominica,nccamerica,1,0
-Islas Vírgenes Estadounidenses,Curazao,nccamerica,0,3
-Belice,San Vicente y las Granadinas,nccamerica,1,1
-República Dominicana,Islas Caimán,nccamerica,4,0
-Bermudas,Barbados,nccamerica,2,1
-Granada,San Vicente y las Granadinas,nccamerica,1,1
-Guatemala,Belice,nccamerica,3,1
-San Cristóbal y Nieves,Santa Lucía,nccamerica,1,1
-Zambia,Ghana,africa,1,0
-Botsuana,Sudáfrica,africa,1,1
-Malaui,Nigeria,africa,1,1
-Nigeria,Namibia,africa,1,0
-Benín,Mali,africa,1,0
-Angola,Uganda,africa,1,1
-Togo,Libia,africa,1,1
-Zimbabue,Guinea,africa,0,1
-Sudáfrica,Etiopía,africa,1,1
-Argelia,Ruanda,africa,4,0
-Panamá,Nicaragua,nccamerica,5,1
-Bermudas,Guyana,nccamerica,1,1
-El Salvador,Islas Caimán,nccamerica,4,0
-Canadá,Puerto Rico,nccamerica,0,0
-Antigua y Barbuda,Islas Vírgenes Estadounidenses,nccamerica,10,0
-Surinam,República Dominicana,nccamerica,1,3
-Trinidad y Tobago,Barbados,nccamerica,4,0
-Haití,Curazao,nccamerica,2,2
-Puerto Rico,San Cristóbal y Nieves,nccamerica,1,1
-Bermudas,Trinidad y Tobago,nccamerica,2,1
-Túnez,Guinea Ecuatorial,africa,3,1
-Senegal,Liberia,africa,3,1
-Costa de Marfil,Tanzania,africa,2,0
-Sierra Leona,Cabo Verde,africa,2,1
-Gambia,Marruecos,africa,1,1
-Kenia,Malaui,africa,0,0
-Camerún,RD del Congo,africa,1,0
-República Centroafricana,Botsuana,africa,2,0
-Islas Caimán,Surinam,nccamerica,0,1
-Dominica,Panamá,nccamerica,0,5
-Barbados,Guyana,nccamerica,0,2
-Islas Vírgenes Estadounidenses,Haití,nccamerica,0,7
-Belice,Granada,nccamerica,1,4
-República Dominicana,El Salvador,nccamerica,1,2
-San Vicente y las Granadinas,Guatemala,nccamerica,0,3
-San Vicente y las Granadinas,Granada,nccamerica,2,1
-Puerto Rico,Canadá,nccamerica,0,3
-Guyana,Bermudas,nccamerica,2,1
-Egipto,Mozambique,africa,2,0
-Ghana,Lesoto,africa,7,0
-Etiopía,Somalia,africa,5,0
-Namibia,Yibuti,africa,4,0
-Mozambique,Comoras,africa,4,1
-Tanzania,Chad,africa,0,1
-Kenia,Seychelles,africa,4,0
-Madagascar,Guinea Ecuatorial,africa,2,1
-Congo,Santo Tomé y Príncipe,africa,1,1
-Curazao,Haití,nccamerica,2,4
-Islas Caimán,El Salvador,nccamerica,1,4
-Nicaragua,Panamá,nccamerica,1,2
-Santa Lucía,San Cristóbal y Nieves,nccamerica,2,4
-Belice,Guatemala,nccamerica,1,2
-Barbados,Trinidad y Tobago,nccamerica,0,2
-Islas Vírgenes Estadounidenses,Antigua y Barbuda,nccamerica,1,8
-República Dominicana,Surinam,nccamerica,1,1
-Canadá,Santa Lucía,nccamerica,4,1
-RD del Congo,Suazilandia,africa,5,1
-Ruanda,Eritrea,africa,3,1
-Togo,Guinea-Bissáu,africa,1,0
-Burundi,Lesoto,africa,2,2
-Somalia,Etiopía,africa,0,0
-Lesoto,Burundi,africa,1,0
-Seychelles,Kenia,africa,0,3
-Guinea-Bissáu,Togo,africa,1,1
-Guinea Ecuatorial,Madagascar,africa,2,0
-Chad,Tanzania,africa,1,2
-Suazilandia,RD del Congo,africa,1,3
-Guatemala,San Vicente y las Granadinas,nccamerica,4,0
-San Cristóbal y Nieves,Puerto Rico,nccamerica,0,0
-Guyana,Barbados,nccamerica,2,0
-El Salvador,República Dominicana,nccamerica,3,2
-Antigua y Barbuda,Curazao,nccamerica,5,2
-Dominica,Nicaragua,nccamerica,0,2
-Surinam,Islas Caimán,nccamerica,1,0
-Trinidad y Tobago,Bermudas,nccamerica,1,0
-Granada,Belice,nccamerica,0,3
-Haití,Islas Vírgenes Estadounidenses,nccamerica,6,0
-Eritrea,Ruanda,africa,1,1
-Yibuti,Namibia,africa,0,4
-Comoras,Mozambique,africa,0,1
-Santo Tomé y Príncipe,Congo,africa,0,5
-Belice,Montserrat,nccamerica,3,1
-Santa Lucía,Aruba,nccamerica,4,2
-República Dominicana,Anguila,nccamerica,4,0
-Islas Vírgenes Británicas,Islas Vírgenes Estadounidenses,nccamerica,1,2
-Bahamas,Turcas y Caicos,nccamerica,6,0
-Aruba,Santa Lucía,nccamerica,4,2
-Anguila,República Dominicana,nccamerica,0,2
-Islas Vírgenes Estadounidenses,Islas Vírgenes Británicas,nccamerica,2,0
-Turcas y Caicos,Bahamas,nccamerica,0,4
-Montserrat,Belice,nccamerica,2,5
-Inglaterra,Italia,asia,1,2
+Nueva Caledonia,Tahití,oceania,1,0
+Islas Salomón,Nueva Zelanda,oceania,0,2
+Tahití,Islas Salomón,oceania,2,0
+Inglaterra,Italia,europe,1,2
+Francia,Ucrania,europe,3,0
 Uruguay,Jordania,asia,0,0
 Jordania,Uruguay,asia,0,5
 Uzbekistán,Jordania,asia,1,1
-Jordania,Uzbekistán,asia,1,1
-República de Corea,Irán,asia,0,1
-Australia,Irak,asia,1,0
-Jordania,Omán,asia,1,0
-Uzbekistán,Qatar,asia,5,1
-República de Corea,Uzbekistán,asia,1,0
-Irán,Líbano,asia,4,0
-Australia,Jordania,asia,4,0
-Irak,Japón,asia,0,1
-Líbano,República de Corea,asia,1,1
-Japón,Australia,asia,1,1
-Qatar,Irán,asia,0,1
-Omán,Irak,asia,1,0
-República de Corea,Qatar,asia,2,1
-Australia,Omán,asia,2,2
-Uzbekistán,Líbano,asia,1,0
-Jordania,Japón,asia,2,1
-Irán,Uzbekistán,asia,0,1
-Qatar,Líbano,asia,1,0
-Irak,Jordania,asia,1,0
-Omán,Japón,asia,1,2
-Irán,República de Corea,asia,1,0
-Irak,Australia,asia,1,2
-Omán,Jordania,asia,2,1
-Qatar,Uzbekistán,asia,0,1
-Japón,Irak,asia,1,0
-Jordania,Australia,asia,2,1
-Uzbekistán,República de Corea,asia,2,2
-Líbano,Irán,asia,1,0
-República de Corea,Líbano,asia,3,0
-Irán,Qatar,asia,0,0
-Australia,Japón,asia,1,1
-Irak,Omán,asia,1,1
-Japón,Jordania,asia,6,0
-Qatar,República de Corea,asia,1,4
-Omán,Australia,asia,0,0
-Líbano,Uzbekistán,asia,1,1
-Líbano,Qatar,asia,0,1
-Japón,Omán,asia,3,0
-Uzbekistán,Irán,asia,0,1
-Jordania,Irak,asia,1,1
-República de Corea,Kuwait,asia,2,0
-Australia,Arabia Saudí,asia,4,2
-Japón,Uzbekistán,asia,0,1
-Irán,Qatar,asia,2,2
-Irak,Singapur,asia,7,1
-Bahréin,Indonesia,asia,10,0
-Emiratos Árabes Unidos,Líbano,asia,4,2
-RP China,Jordania,asia,3,1
-Omán,Tailandia,asia,2,0
-Tayikistán,RDP de Corea,asia,1,1
-Singapur,RP China,asia,0,4
-Arabia Saudí,Omán,asia,0,0
-Qatar,Bahréin,asia,0,0
-Indonesia,Irán,asia,1,4
-Tailandia,Australia,asia,0,1
-Jordania,Irak,asia,1,3
-Uzbekistán,Tayikistán,asia,3,0
-Kuwait,Emiratos Árabes Unidos,asia,2,1
-RDP de Corea,Japón,asia,1,0
-Líbano,República de Corea,asia,2,1
-Arabia Saudí,Tailandia,asia,3,0
-Qatar,Indonesia,asia,4,0
-Bahréin,Irán,asia,1,1
-Omán,Australia,asia,1,0
-Uzbekistán,RDP de Corea,asia,1,0
-Jordania,Singapur,asia,2,0
-Kuwait,Líbano,asia,0,1
-Irak,RP China,asia,1,0
-Emiratos Árabes Unidos,República de Corea,asia,0,2
-Tayikistán,Japón,asia,0,4
-RP China,Irak,asia,0,1
-República de Corea,Emiratos Árabes Unidos,asia,2,1
-Japón,Tayikistán,asia,8,0
-Singapur,Jordania,asia,0,3
-Australia,Omán,asia,3,0
-Irán,Bahréin,asia,6,0
-Indonesia,Qatar,asia,2,3
-Tailandia,Arabia Saudí,asia,0,0
-Líbano,Kuwait,asia,2,2
-RDP de Corea,Uzbekistán,asia,0,1
-Arabia Saudí,Australia,asia,1,3
-Kuwait,República de Corea,asia,1,1
-Qatar,Irán,asia,1,1
-Singapur,Irak,asia,0,2
-Uzbekistán,Japón,asia,1,1
-Jordania,RP China,asia,2,1
-Indonesia,Bahréin,asia,0,2
-Tailandia,Omán,asia,3,0
-Líbano,Emiratos Árabes Unidos,asia,3,1
-RDP de Corea,Tayikistán,asia,1,0
-Australia,Tailandia,asia,2,1
-Bahréin,Qatar,asia,0,0
-Irán,Indonesia,asia,3,0
-RP China,Singapur,asia,2,1
-República de Corea,Líbano,asia,6,0
-Emiratos Árabes Unidos,Kuwait,asia,2,3
-Japón,RDP de Corea,asia,1,0
-Omán,Arabia Saudí,asia,0,0
-Irak,Jordania,asia,0,2
-Tayikistán,Uzbekistán,asia,0,1
-Maldivas,Irán,asia,0,1
-Malasia,Singapur,asia,1,1
-Hong Kong,Arabia Saudí,asia,0,5
-Yemen,Irak,asia,0,0
-Vietnam,Qatar,asia,2,1
-Filipinas,Kuwait,asia,1,2
-Indonesia,Turkmenistán,asia,4,3
-India,Emiratos Árabes Unidos,asia,2,2
-Kirguistán,Uzbekistán,asia,0,3
-Laos,RP China,asia,1,6
-Bangladesh,Líbano,asia,2,0
-Palestina,Tailandia,asia,2,2
-Nepal,Jordania,asia,1,1
-Arabia Saudí,Hong Kong,asia,3,0
-Emiratos Árabes Unidos,India,asia,3,0
-Singapur,Malasia,asia,5,3
-Kuwait,Filipinas,asia,3,0
-Irán,Maldivas,asia,4,0
-Qatar,Vietnam,asia,3,0
-Uzbekistán,Kirguistán,asia,4,0
-Jordania,Nepal,asia,9,0
-Irak,Yemen,asia,2,0
-Turkmenistán,Indonesia,asia,1,1
-Tailandia,Palestina,asia,1,0
-Líbano,Bangladesh,asia,4,0
-RP China,Laos,asia,7,2
-Pakistán,Bangladesh,asia,0,0
-Macao,Vietnam,asia,1,7
-Chinese Taipei,Malasia,asia,3,2
-Laos,Camboya,asia,6,2
-Palestina,Afganistán,asia,1,1
-Myanmar,Mongolia,asia,2,0
-Filipinas,Sri Lanka,asia,4,0
-Timor Oriental,Nepal,asia,0,5
-Malasia,Chinese Taipei,asia,2,1
-Vietnam,Macao,asia,6,0
-Mongolia,Myanmar,asia,1,0
-Bangladesh,Pakistán,asia,3,0
-Afganistán,Palestina,asia,0,2
-Sri Lanka,Filipinas,asia,1,1
-Nepal,Timor Oriental,asia,2,1
-Camboya,Laos,asia,4,2
-Inglaterra,Italia,europe,1,2
-Francia,Ucrania,europe,3,0
+Inglaterra,Italia,southamerica,1,2
+Uruguay,Jordania,southamerica,0,0
+Jordania,Uruguay,southamerica,0,5
+Suiza,Ecuador,matches,2,1
+Francia,Honduras,matches,3,0
+Argentina,Bosnia y Herzegovina,matches,2,1
+Ghana,Egipto,africa,6,1
+Túnez,Camerún,africa,0,0
+Etiopía,Nigeria,africa,1,2
+EEUU,Jamaica,nccamerica,2,0
+Honduras,Costa Rica,nccamerica,1,0
+EEUU,México,nccamerica,2,0
+Nueva Zelanda,Nueva Caledonia,oceania,2,1
+Nueva Zelanda,Tahití,oceania,3,0
+Nueva Caledonia,Islas Salomón,oceania,5,0
 Rumanía,Grecia,europe,1,1
 Suecia,Portugal,europe,2,3
 Croacia,Islandia,europe,2,0
+Jordania,Uzbekistán,asia,1,1
+República de Corea,Irán,asia,0,1
+Australia,Irak,asia,1,0
+Uruguay,Argentina,southamerica,3,2
+Perú,Bolivia,southamerica,1,1
+Paraguay,Colombia,southamerica,1,2
+Alemania,Portugal,matches,4,0
+Irán,Nigeria,matches,0,0
+Costa de Marfil,Senegal,africa,3,1
+Burkina Faso,Argelia,africa,3,2
+Honduras,Panamá,nccamerica,2,2
+Jamaica,Costa Rica,nccamerica,1,1
+Panamá,Jamaica,nccamerica,0,0
+Tahití,Nueva Zelanda,oceania,0,2
+Islas Salomón,Nueva Caledonia,oceania,2,6
+Tahití,Nueva Caledonia,oceania,0,4
 Ucrania,Francia,europe,2,0
 Grecia,Rumanía,europe,3,1
 Portugal,Suecia,europe,1,0
+Jordania,Omán,asia,1,0
+Uzbekistán,Qatar,asia,5,1
+República de Corea,Uzbekistán,asia,1,0
+Chile,Ecuador,southamerica,2,1
+Argentina,Perú,southamerica,3,1
+Venezuela,Paraguay,southamerica,1,1
+Ghana,EEUU,matches,1,2
+Bélgica,Argelia,matches,2,1
+Brasil,México,matches,0,0
+Argelia,Mali,africa,1,0
+Egipto,Guinea,africa,4,2
+Sudán,Lesoto,africa,1,3
+México,Honduras,nccamerica,1,2
+Costa Rica,EEUU,nccamerica,3,1
+Costa Rica,Panamá,nccamerica,2,0
+Nueva Zelanda,Islas Salomón,oceania,6,1
+Nueva Caledonia,Nueva Zelanda,oceania,0,2
+Islas Salomón,Tahití,oceania,2,0
 Islandia,Croacia,europe,0,0
 Azerbaiyán,Rusia,europe,1,1
+Irán,Líbano,asia,4,0
+Australia,Jordania,asia,4,0
+Irak,Japón,asia,0,1
+Ecuador,Uruguay,southamerica,1,0
+Colombia,Chile,southamerica,3,3
+Paraguay,Argentina,southamerica,2,5
+Rusia,República de Corea,matches,1,1
+Australia,Países Bajos,matches,2,3
+España,Chile,matches,0,2
+Benín,Ruanda,africa,2,0
+Kenia,Namibia,africa,1,0
+Camerún,Libia,africa,1,0
+EEUU,Honduras,nccamerica,1,0
+EEUU,Panamá,nccamerica,2,0
+México,Costa Rica,nccamerica,0,0
+Tahití,Nueva Caledonia,oceania,1,0
+Islas Salomón,Nueva Zelanda,oceania,3,4
+Nueva Zelanda,Nueva Caledonia,oceania,0,2
 Bulgaria,República Checa,europe,0,1
 Letonia,Eslovaquia,europe,2,2
 Montenegro,Moldavia,europe,2,5
+Líbano,República de Corea,asia,1,1
+Japón,Australia,asia,1,1
+Qatar,Irán,asia,0,1
+Venezuela,Perú,southamerica,3,2
+Uruguay,Colombia,southamerica,2,0
+Bolivia,Ecuador,southamerica,1,1
+Camerún,Croacia,matches,0,4
+Colombia,Costa de Marfil,matches,2,1
+Uruguay,Inglaterra,matches,2,1
+Togo,RD del Congo,africa,2,1
+Zimbabue,Mozambique,africa,1,1
+Senegal,Uganda,africa,1,0
+Honduras,Jamaica,nccamerica,2,0
+Panamá,México,nccamerica,0,0
+Jamaica,EEUU,nccamerica,1,2
+Tahití,Islas Salomón,oceania,1,0
+Nueva Zelanda,Islas Salomón,oceania,1,1
+Papúa Nueva Guinea,Fiyi,oceania,1,1
 Bélgica,Gales,europe,1,1
 Rumanía,Estonia,europe,2,0
 Turquía,Países Bajos,europe,0,2
+Omán,Irak,asia,1,0
+República de Corea,Qatar,asia,2,1
+Australia,Omán,asia,2,2
+Perú,Uruguay,southamerica,1,2
+Chile,Venezuela,southamerica,3,0
+Paraguay,Bolivia,southamerica,4,0
+Japón,Grecia,matches,0,0
+Italia,Costa Rica,matches,0,1
+Suiza,Francia,matches,2,5
+Costa de Marfil,Marruecos,africa,1,1
+Gambia,Tanzania,africa,2,0
+Níger,Congo,africa,2,2
+Costa Rica,Honduras,nccamerica,1,0
+Jamaica,México,nccamerica,0,1
+Panamá,Honduras,nccamerica,2,0
+Tahití,Vanuatu,oceania,4,1
+Nueva Caledonia,Samoa,oceania,9,0
+Fiyi,Islas Salomón,oceania,0,0
 San Marino,Ucrania,europe,0,8
 España,Georgia,europe,2,0
 Francia,Finlandia,europe,3,0
+Uzbekistán,Líbano,asia,1,0
+Jordania,Japón,asia,2,1
+Irán,Uzbekistán,asia,0,1
+Colombia,Ecuador,southamerica,1,0
+Chile,Bolivia,southamerica,3,1
+Venezuela,Uruguay,southamerica,0,1
+Honduras,Ecuador,matches,1,2
+Argentina,Irán,matches,1,0
+Sierra Leona,Guinea Ecuatorial,africa,3,2
+México,EEUU,nccamerica,0,0
+Costa Rica,Jamaica,nccamerica,2,0
+Papúa Nueva Guinea,Nueva Zelanda,oceania,1,2
 Suecia,Alemania,europe,3,5
 Italia,Armenia,europe,2,2
+Qatar,Líbano,asia,1,0
+Irak,Jordania,asia,1,0
+Omán,Japón,asia,1,2
+Ecuador,Argentina,southamerica,1,1
+Colombia,Perú,southamerica,2,0
+Perú,Ecuador,southamerica,1,0
+Alemania,Ghana,matches,2,2
+Nigeria,Bosnia y Herzegovina,matches,1,0
+Nigeria,Malaui,africa,2,0
+Jamaica,Panamá,nccamerica,1,1
+EEUU,Costa Rica,nccamerica,1,0
+Honduras,México,nccamerica,2,2
+Tahití,Nueva Caledonia,oceania,4,3
+Vanuatu,Samoa,oceania,5,0
+Islas Salomón,Papúa Nueva Guinea,oceania,1,0
 Serbia,ARY de Macedonia,europe,5,1
 Dinamarca,Malta,europe,6,0
 Escocia,Croacia,europe,2,0
+Irán,República de Corea,asia,1,0
+Irak,Australia,asia,1,2
+Omán,Jordania,asia,2,1
+Paraguay,Chile,southamerica,1,2
+Argentina,Colombia,southamerica,0,0
+Bolivia,Venezuela,southamerica,1,1
+Bélgica,Rusia,matches,1,0
+República de Corea,Argelia,matches,2,4
+EEUU,Portugal,matches,2,2
+Burkina Faso,Gabón,africa,1,0
+Sudáfrica,Botsuana,africa,4,1
+República Centroafricana,Etiopía,africa,1,2
+Panamá,Costa Rica,nccamerica,2,2
+México,Jamaica,nccamerica,0,0
+Honduras,EEUU,nccamerica,2,1
+Fiyi,Nueva Zelanda,oceania,0,1
+Vanuatu,Nueva Caledonia,oceania,2,5
+Samoa,Tahití,oceania,1,10
 Lituania,Bosnia y Herzegovina,europe,0,1
 Grecia,Liechtenstein,europe,2,0
 Suiza,Eslovenia,europe,1,0
+Qatar,Uzbekistán,asia,0,1
+Japón,Irak,asia,1,0
+Jordania,Australia,asia,2,1
+Chile,Uruguay,southamerica,2,0
+Venezuela,Colombia,southamerica,1,0
+Ecuador,Paraguay,southamerica,4,1
+Ghana,Zambia,africa,2,1
+Mali,Benín,africa,2,2
+Guinea,Zimbabue,africa,1,0
+México,El Salvador,nccamerica,2,0
+Costa Rica,Guyana,nccamerica,7,0
+Jamaica,Antigua y Barbuda,nccamerica,4,1
+Samoa,Samoa Estadounidense,oceania,1,0
+Tonga,Islas Cook,oceania,2,1
+Samoa,Tonga,oceania,1,1
 Noruega,Islandia,europe,1,1
 Israel,Irlanda del Norte,europe,1,1
 Hungría,Andorra,europe,2,0
+Uzbekistán,República de Corea,asia,2,2
+Líbano,Irán,asia,1,0
+República de Corea,Líbano,asia,3,0
+Bolivia,Argentina,southamerica,1,1
+Perú,Chile,southamerica,1,0
+Argentina,Venezuela,southamerica,3,0
+Guinea Ecuatorial,Túnez,africa,1,1
+Etiopía,Sudáfrica,africa,2,1
+EEUU,Guatemala,nccamerica,3,1
+Cuba,Panamá,nccamerica,1,1
+Honduras,Canadá,nccamerica,8,1
+Samoa Estadounidense,Islas Cook,oceania,1,1
+Islas Cook,Samoa,oceania,2,3
+Samoa Estadounidense,Tonga,oceania,2,1
 Inglaterra,Polonia,europe,2,0
 República de Irlanda,Kazajstán,europe,3,1
 Islas Feroe,Austria,europe,0,3
+Irán,Qatar,asia,0,0
+Australia,Japón,asia,1,1
+Irak,Omán,asia,1,1
+Uruguay,Paraguay,southamerica,1,1
+Colombia,Bolivia,southamerica,5,0
+Chile,Argentina,southamerica,1,2
+Liberia,Senegal,africa,0,2
+Ruanda,Argelia,africa,0,1
+RD del Congo,Camerún,africa,0,0
+Panamá,Honduras,nccamerica,0,0
+Guyana,México,nccamerica,0,5
+Guatemala,Jamaica,nccamerica,2,1
 Chipre,Albania,europe,0,0
 Portugal,Luxemburgo,europe,3,0
 España,Bielorrusia,europe,2,1
+Japón,Jordania,asia,6,0
+Qatar,República de Corea,asia,1,4
+Omán,Australia,asia,0,0
+Paraguay,Perú,southamerica,1,0
+Venezuela,Ecuador,southamerica,1,1
+Bolivia,Uruguay,southamerica,4,1
+Tanzania,Costa de Marfil,africa,2,4
+Lesoto,Ghana,africa,0,2
+Canadá,Cuba,nccamerica,3,0
 Grecia,Eslovaquia,europe,1,0
 Estonia,Turquía,europe,0,2
+Líbano,Uzbekistán,asia,1,1
+Líbano,Qatar,asia,0,1
+Japón,Omán,asia,3,0
+Argentina,Uruguay,southamerica,3,0
+Ecuador,Chile,southamerica,3,1
+Mozambique,Egipto,africa,0,1
+Marruecos,Gambia,africa,2,0
+Cabo Verde,Sierra Leona,africa,1,0
+El Salvador,Costa Rica,nccamerica,0,1
+Antigua y Barbuda,EEUU,nccamerica,1,2
 Ucrania,Polonia,europe,1,0
+Uzbekistán,Irán,asia,0,1
+Jordania,Irak,asia,1,1
+Bolivia,Perú,southamerica,1,1
+Colombia,Paraguay,southamerica,2,0
+Uganda,Angola,africa,2,1
+Gabón,Níger,africa,4,1
+Congo,Burkina Faso,africa,0,1
+EEUU,Jamaica,nccamerica,1,0
+Panamá,Canadá,nccamerica,2,0
+México,Costa Rica,nccamerica,1,0
 Azerbaiyán,Irlanda del Norte,europe,2,0
 Portugal,Israel,europe,1,1
 Eslovenia,Noruega,europe,3,0
+República de Corea,Kuwait,asia,2,0
+Australia,Arabia Saudí,asia,4,2
+Japón,Uzbekistán,asia,0,1
+Perú,Argentina,southamerica,1,1
+Paraguay,Venezuela,southamerica,0,2
+Uruguay,Ecuador,southamerica,1,1
+Zambia,Sudán,africa,1,1
+Botsuana,República Centroafricana,africa,3,2
+Libia,Togo,africa,2,0
+Guyana,El Salvador,nccamerica,2,3
+Honduras,Cuba,nccamerica,1,0
+Antigua y Barbuda,Guatemala,nccamerica,0,1
 Alemania,República de Irlanda,europe,3,0
 Suecia,Austria,europe,2,1
 Países Bajos,Hungría,europe,8,1
+Irán,Qatar,asia,2,2
+Irak,Singapur,asia,7,1
+Bahréin,Indonesia,asia,10,0
+Chile,Colombia,southamerica,1,3
+Perú,Venezuela,southamerica,2,1
+Argentina,Paraguay,southamerica,3,1
+Namibia,Nigeria,africa,1,1
+Malaui,Kenia,africa,2,2
+Mali,Ruanda,africa,1,1
+Costa Rica,México,nccamerica,0,2
+Guatemala,Antigua y Barbuda,nccamerica,3,1
+Canadá,Panamá,nccamerica,1,0
 Andorra,Rumanía,europe,0,4
 Luxemburgo,Rusia,europe,0,4
 Albania,Suiza,europe,1,2
+Emiratos Árabes Unidos,Líbano,asia,4,2
+RP China,Jordania,asia,3,1
+Omán,Tailandia,asia,2,0
+Ecuador,Bolivia,southamerica,1,0
+Colombia,Uruguay,southamerica,4,0
+Ecuador,Colombia,southamerica,1,0
+Guinea,Mozambique,africa,6,1
+Benín,Argelia,africa,1,3
+Níger,Burkina Faso,africa,0,1
+El Salvador,Guyana,nccamerica,2,2
+Jamaica,EEUU,nccamerica,2,1
+Cuba,Honduras,nccamerica,0,3
 Dinamarca,Italia,europe,2,2
 Inglaterra,Montenegro,europe,4,1
 Bosnia y Herzegovina,Liechtenstein,europe,4,1
+Tayikistán,RDP de Corea,asia,1,1
+Singapur,RP China,asia,0,4
+Arabia Saudí,Omán,asia,0,0
+Uruguay,Perú,southamerica,4,2
+Venezuela,Chile,southamerica,0,2
+Bolivia,Paraguay,southamerica,3,1
+Zimbabue,Egipto,africa,2,4
+Marruecos,Tanzania,africa,2,1
+Gambia,Costa de Marfil,africa,0,3
+Panamá,Cuba,nccamerica,1,0
+Guyana,Costa Rica,nccamerica,0,4
+Guatemala,EEUU,nccamerica,1,1
 Gales,ARY de Macedonia,europe,1,0
 Malta,República Checa,europe,1,4
 Armenia,Bulgaria,europe,2,1
+Qatar,Bahréin,asia,0,0
+Indonesia,Irán,asia,1,4
+Tailandia,Australia,asia,0,1
+Perú,Colombia,southamerica,0,1
+Argentina,Ecuador,southamerica,4,0
+Bolivia,Chile,southamerica,0,2
+Sierra Leona,Túnez,africa,2,2
+Uganda,Liberia,africa,1,0
+Angola,Senegal,africa,1,1
+Canadá,Honduras,nccamerica,0,0
+El Salvador,México,nccamerica,1,2
+Antigua y Barbuda,Jamaica,nccamerica,0,0
 Moldavia,San Marino,europe,3,0
 Islandia,Chipre,europe,2,0
 Lituania,Letonia,europe,2,0
+Jordania,Irak,asia,1,3
+Uzbekistán,Tayikistán,asia,3,0
+Kuwait,Emiratos Árabes Unidos,asia,2,1
+Uruguay,Venezuela,southamerica,1,1
+Venezuela,Bolivia,southamerica,1,0
+Chile,Paraguay,southamerica,2,0
+Gabón,Congo,africa,0,0
+Zambia,Lesoto,africa,4,0
+República Centroafricana,Sudáfrica,africa,0,3
+Jamaica,Guatemala,nccamerica,2,1
+Costa Rica,El Salvador,nccamerica,2,2
+Honduras,Panamá,nccamerica,0,2
 Croacia,Bélgica,europe,1,2
 Islas Feroe,Kazajstán,europe,1,1
 Kazajstán,Suecia,europe,0,1
+RDP de Corea,Japón,asia,1,0
+Líbano,República de Corea,asia,2,1
+Arabia Saudí,Tailandia,asia,3,0
+Colombia,Argentina,southamerica,1,2
+Ecuador,Perú,southamerica,2,0
+Paraguay,Ecuador,southamerica,2,1
+Sudán,Ghana,africa,1,3
+Libia,RD del Congo,africa,0,0
+Kenia,Nigeria,africa,0,1
+EEUU,Antigua y Barbuda,nccamerica,3,1
+México,Guyana,nccamerica,3,1
+Cuba,Canadá,nccamerica,0,1
 Bielorrusia,Francia,europe,2,4
 Ucrania,Inglaterra,europe,0,0
 Grecia,Letonia,europe,1,0
+Qatar,Indonesia,asia,4,0
+Bahréin,Irán,asia,1,1
+Omán,Australia,asia,1,0
+Uruguay,Chile,southamerica,4,0
+Colombia,Venezuela,southamerica,1,1
+Argentina,Bolivia,southamerica,1,1
+Malaui,Namibia,africa,0,0
+Argelia,Benín,africa,3,1
+Egipto,Zimbabue,africa,2,1
+Panamá,Dominica,nccamerica,3,0
+Curazao,Islas Vírgenes Estadounidenses,nccamerica,6,1
+El Salvador,Surinam,nccamerica,4,0
 Chipre,Eslovenia,europe,0,2
 Georgia,Finlandia,europe,0,1
 Rumanía,Turquía,europe,0,2
+Uzbekistán,RDP de Corea,asia,1,0
+Jordania,Singapur,asia,2,0
+Kuwait,Líbano,asia,0,1
+Venezuela,Argentina,southamerica,1,0
+Chile,Perú,southamerica,4,2
+Paraguay,Uruguay,southamerica,1,1
+Liberia,Uganda,africa,2,0
+Ghana,Sudán,africa,4,0
+Etiopía,Botsuana,africa,1,0
+Canadá,San Cristóbal y Nieves,nccamerica,4,0
+San Vicente y las Granadinas,Belice,nccamerica,0,2
+Granada,Guatemala,nccamerica,1,4
 Austria,República de Irlanda,europe,1,0
 San Marino,Polonia,europe,1,5
 Italia,República Checa,europe,2,1
+Irak,RP China,asia,1,0
+Emiratos Árabes Unidos,República de Corea,asia,0,2
+Tayikistán,Japón,asia,0,4
+Bolivia,Colombia,southamerica,1,2
+Perú,Paraguay,southamerica,2,0
+RD del Congo,Libia,africa,0,0
+Haití,Antigua y Barbuda,nccamerica,2,1
+Puerto Rico,Santa Lucía,nccamerica,3,0
 ARY de Macedonia,Escocia,europe,1,2
 Hungría,Estonia,europe,5,1
+RP China,Irak,asia,0,1
+República de Corea,Emiratos Árabes Unidos,asia,2,1
+Japón,Tayikistán,asia,8,0
+Argentina,Chile,southamerica,4,1
+Ruanda,Mali,africa,1,2
+Mozambique,Guinea,africa,0,0
+Barbados,Bermudas,nccamerica,1,2
+Islas Caimán,República Dominicana,nccamerica,1,1
+Surinam,El Salvador,nccamerica,1,3
 Andorra,Países Bajos,europe,0,2
 Eslovaquia,Bosnia y Herzegovina,europe,1,2
 Luxemburgo,Irlanda del Norte,europe,3,2
+Singapur,Jordania,asia,0,3
+Australia,Omán,asia,3,0
+Irán,Bahréin,asia,6,0
+Uruguay,Bolivia,southamerica,4,2
+Ecuador,Venezuela,southamerica,2,0
+Lesoto,Zambia,africa,1,1
+Guyana,Trinidad y Tobago,nccamerica,2,1
+San Cristóbal y Nieves,Canadá,nccamerica,0,0
+Guatemala,Granada,nccamerica,3,0
 Armenia,Dinamarca,europe,0,1
 Malta,Bulgaria,europe,1,2
 Gales,Serbia,europe,0,3
+Indonesia,Qatar,asia,2,3
+Tailandia,Arabia Saudí,asia,0,0
+Líbano,Kuwait,asia,2,2
+Tanzania,Marruecos,africa,3,1
+Sudáfrica,República Centroafricana,africa,2,0
+Túnez,Sierra Leona,africa,2,1
+Antigua y Barbuda,Haití,nccamerica,1,0
+Nicaragua,Dominica,nccamerica,1,0
+Islas Vírgenes Estadounidenses,Curazao,nccamerica,0,3
 Islas Feroe,Alemania,europe,0,3
 Noruega,Suiza,europe,0,2
 Rusia,Israel,europe,3,1
+RDP de Corea,Uzbekistán,asia,0,1
+Arabia Saudí,Australia,asia,1,3
+Kuwait,República de Corea,asia,1,1
+Burkina Faso,Níger,africa,4,0
+Namibia,Malaui,africa,0,1
+Belice,San Vicente y las Granadinas,nccamerica,1,1
+República Dominicana,Islas Caimán,nccamerica,4,0
+Bermudas,Barbados,nccamerica,2,1
 Islandia,Albania,europe,2,1
 Lituania,Liechtenstein,europe,2,0
+Qatar,Irán,asia,1,1
+Senegal,Angola,africa,1,1
+Costa de Marfil,Gambia,africa,3,0
+Granada,San Vicente y las Granadinas,nccamerica,1,1
+Guatemala,Belice,nccamerica,3,1
+San Cristóbal y Nieves,Santa Lucía,nccamerica,1,1
 Israel,Azerbaiyán,europe,1,1
 Georgia,Francia,europe,0,0
 Finlandia,España,europe,0,2
+Singapur,Irak,asia,0,2
+Uzbekistán,Japón,asia,1,1
+Jordania,RP China,asia,2,1
+Nigeria,Kenia,africa,1,1
+Camerún,Togo,africa,2,1
+Congo,Gabón,africa,1,0
+Panamá,Nicaragua,nccamerica,5,1
+Bermudas,Guyana,nccamerica,1,1
+El Salvador,Islas Caimán,nccamerica,4,0
 Estonia,Países Bajos,europe,2,2
 Letonia,Lituania,europe,2,1
 Ucrania,San Marino,europe,9,0
+Indonesia,Bahréin,asia,0,2
+Tailandia,Omán,asia,3,0
+Líbano,Emiratos Árabes Unidos,asia,3,1
+Mali,Argelia,africa,2,1
+Guinea,Egipto,africa,2,3
+Libia,Camerún,africa,2,1
+Canadá,Puerto Rico,nccamerica,0,0
+Antigua y Barbuda,Islas Vírgenes Estadounidenses,nccamerica,10,0
+Surinam,República Dominicana,nccamerica,1,3
 Turquía,Andorra,europe,5,0
 Rumanía,Hungría,europe,3,0
 Kazajstán,Islas Feroe,europe,2,1
+RDP de Corea,Tayikistán,asia,1,0
+Australia,Tailandia,asia,2,1
+Tanzania,Gambia,africa,2,1
+Liberia,Angola,africa,0,0
+Trinidad y Tobago,Barbados,nccamerica,4,0
+Haití,Curazao,nccamerica,2,2
+Puerto Rico,San Cristóbal y Nieves,nccamerica,1,1
 Alemania,Austria,europe,3,0
 Polonia,Montenegro,europe,1,1
+Bahréin,Qatar,asia,0,0
+Etiopía,República Centroafricana,africa,2,0
+Ruanda,Benín,africa,1,1
+Bermudas,Trinidad y Tobago,nccamerica,2,1
+Islas Caimán,Surinam,nccamerica,0,1
+Dominica,Panamá,nccamerica,0,5
 Liechtenstein,Grecia,europe,0,1
 Italia,Bulgaria,europe,1,0
+Irán,Indonesia,asia,3,0
+RP China,Singapur,asia,2,1
+RD del Congo,Togo,africa,2,0
+Mozambique,Zimbabue,africa,0,0
+Lesoto,Sudán,africa,0,0
+Barbados,Guyana,nccamerica,0,2
+Islas Vírgenes Estadounidenses,Haití,nccamerica,0,7
+Belice,Granada,nccamerica,1,4
 Serbia,Croacia,europe,1,1
 Suiza,Islandia,europe,4,4
 Eslovenia,Albania,europe,1,0
+República de Corea,Líbano,asia,6,0
+Emiratos Árabes Unidos,Kuwait,asia,2,3
+Marruecos,Costa de Marfil,africa,2,2
+Namibia,Kenia,africa,1,0
+Guinea Ecuatorial,Sierra Leona,africa,2,2
+República Dominicana,El Salvador,nccamerica,1,2
+San Vicente y las Granadinas,Guatemala,nccamerica,0,3
+San Vicente y las Granadinas,Granada,nccamerica,2,1
 Bosnia y Herzegovina,Eslovaquia,europe,0,1
 Inglaterra,Moldavia,europe,4,0
 Malta,Dinamarca,europe,1,2
+Japón,RDP de Corea,asia,1,0
+Omán,Arabia Saudí,asia,0,0
+Irak,Jordania,asia,0,2
+Cabo Verde,Túnez,africa,1,2
+Uganda,Senegal,africa,1,1
+Puerto Rico,Canadá,nccamerica,0,3
+Guyana,Bermudas,nccamerica,2,1
+Curazao,Haití,nccamerica,2,4
 Escocia,Bélgica,europe,0,2
 Irlanda del Norte,Portugal,europe,2,4
 República de Irlanda,Suecia,europe,1,2
+Tayikistán,Uzbekistán,asia,0,1
+Maldivas,Irán,asia,0,1
+Malasia,Singapur,asia,1,1
+Gabón,Burkina Faso,africa,1,0
+Congo,Níger,africa,1,0
+Zambia,Ghana,africa,1,0
+Islas Caimán,El Salvador,nccamerica,1,4
+Nicaragua,Panamá,nccamerica,1,2
+Santa Lucía,San Cristóbal y Nieves,nccamerica,2,4
 Rusia,Luxemburgo,europe,4,1
 Noruega,Chipre,europe,2,0
 ARY de Macedonia,Gales,europe,2,1
+Hong Kong,Arabia Saudí,asia,0,5
+Yemen,Irak,asia,0,0
+Vietnam,Qatar,asia,2,1
+Botsuana,Sudáfrica,africa,1,1
+Malaui,Nigeria,africa,1,1
+Nigeria,Namibia,africa,1,0
+Belice,Guatemala,nccamerica,1,2
+Barbados,Trinidad y Tobago,nccamerica,0,2
+Islas Vírgenes Estadounidenses,Antigua y Barbuda,nccamerica,1,8
 República Checa,Armenia,europe,1,2
 Irlanda del Norte,Rusia,europe,1,0
 Dinamarca,Armenia,europe,0,4
+Filipinas,Kuwait,asia,1,2
+Indonesia,Turkmenistán,asia,4,3
+India,Emiratos Árabes Unidos,asia,2,2
+Benín,Mali,africa,1,0
+Angola,Uganda,africa,1,1
+Togo,Libia,africa,1,1
+República Dominicana,Surinam,nccamerica,1,1
+Canadá,Santa Lucía,nccamerica,4,1
+Guatemala,San Vicente y las Granadinas,nccamerica,4,0
 Bielorrusia,Finlandia,europe,1,1
 Suecia,Islas Feroe,europe,2,0
 Suiza,Chipre,europe,1,0
+Kirguistán,Uzbekistán,asia,0,3
+Laos,RP China,asia,1,6
+Bangladesh,Líbano,asia,2,0
+Zimbabue,Guinea,africa,0,1
+Sudáfrica,Etiopía,africa,1,1
+Argelia,Ruanda,africa,4,0
+San Cristóbal y Nieves,Puerto Rico,nccamerica,0,0
+Guyana,Barbados,nccamerica,2,0
+El Salvador,República Dominicana,nccamerica,3,2
 Lituania,Grecia,europe,0,1
 Moldavia,Polonia,europe,1,1
 Azerbaiyán,Luxemburgo,europe,1,1
+Palestina,Tailandia,asia,2,2
+Nepal,Jordania,asia,1,1
+Arabia Saudí,Hong Kong,asia,3,0
+Túnez,Guinea Ecuatorial,africa,3,1
+Senegal,Liberia,africa,3,1
+Costa de Marfil,Tanzania,africa,2,0
+Antigua y Barbuda,Curazao,nccamerica,5,2
+Dominica,Nicaragua,nccamerica,0,2
+Surinam,Islas Caimán,nccamerica,1,0
 Portugal,Rusia,europe,1,0
 Bélgica,Serbia,europe,2,1
 República Checa,Italia,europe,0,0
+Emiratos Árabes Unidos,India,asia,3,0
+Singapur,Malasia,asia,5,3
+Kuwait,Filipinas,asia,3,0
+Sierra Leona,Cabo Verde,africa,2,1
+Gambia,Marruecos,africa,1,1
+Kenia,Malaui,africa,0,0
+Trinidad y Tobago,Bermudas,nccamerica,1,0
+Granada,Belice,nccamerica,0,3
+Haití,Islas Vírgenes Estadounidenses,nccamerica,6,0
 Austria,Suecia,europe,2,1
 Montenegro,Ucrania,europe,0,4
 Albania,Noruega,europe,1,1
+Irán,Maldivas,asia,4,0
+Qatar,Vietnam,asia,3,0
+Uzbekistán,Kirguistán,asia,4,0
+Camerún,RD del Congo,africa,1,0
+República Centroafricana,Botsuana,africa,2,0
+Egipto,Mozambique,africa,2,0
+Belice,Montserrat,nccamerica,3,1
+Santa Lucía,Aruba,nccamerica,4,2
+República Dominicana,Anguila,nccamerica,4,0
 Croacia,Escocia,europe,0,1
 Armenia,Malta,europe,0,1
 Liechtenstein,Eslovaquia,europe,1,1
+Jordania,Nepal,asia,9,0
+Irak,Yemen,asia,2,0
+Turkmenistán,Indonesia,asia,1,1
+Ghana,Lesoto,africa,7,0
+Etiopía,Somalia,africa,5,0
+Namibia,Yibuti,africa,4,0
+Islas Vírgenes Británicas,Islas Vírgenes Estadounidenses,nccamerica,1,2
+Bahamas,Turcas y Caicos,nccamerica,6,0
 República de Irlanda,Islas Feroe,europe,3,0
 Letonia,Bosnia y Herzegovina,europe,0,5
 Finlandia,Bielorrusia,europe,1,0
+Tailandia,Palestina,asia,1,0
+Líbano,Bangladesh,asia,4,0
+Mozambique,Comoras,africa,4,1
+Aruba,Santa Lucía,nccamerica,4,2
+Anguila,República Dominicana,nccamerica,0,2
+Islas Vírgenes Estadounidenses,Islas Vírgenes Británicas,nccamerica,2,0
 Islandia,Eslovenia,europe,2,4
+RP China,Laos,asia,7,2
+Pakistán,Bangladesh,asia,0,0
+Macao,Vietnam,asia,1,7
+Tanzania,Chad,africa,0,1
+Turcas y Caicos,Bahamas,nccamerica,0,4
+Montserrat,Belice,nccamerica,2,5
 Azerbaiyán,Portugal,europe,0,2
 Ucrania,Moldavia,europe,2,1
 Montenegro,Inglaterra,europe,1,1
+Chinese Taipei,Malasia,asia,3,2
+Laos,Camboya,asia,6,2
+Palestina,Afganistán,asia,1,1
+Kenia,Seychelles,africa,4,0
+Madagascar,Guinea Ecuatorial,africa,2,1
 Francia,España,europe,0,1
 Alemania,Kazajstán,europe,4,1
+Myanmar,Mongolia,asia,2,0
+Filipinas,Sri Lanka,asia,4,0
+Timor Oriental,Nepal,asia,0,5
+Congo,Santo Tomé y Príncipe,africa,1,1
+RD del Congo,Suazilandia,africa,5,1
 Polonia,San Marino,europe,5,0
 Malta,Italia,europe,0,2
 Bélgica,ARY de Macedonia,europe,1,0
+Malasia,Chinese Taipei,asia,2,1
+Vietnam,Macao,asia,6,0
+Mongolia,Myanmar,asia,1,0
+Ruanda,Eritrea,africa,3,1
+Togo,Guinea-Bissáu,africa,1,0
+Burundi,Lesoto,africa,2,2
 Serbia,Escocia,europe,2,0
 Países Bajos,Rumanía,europe,4,0
 Turquía,Hungría,europe,1,1
+Bangladesh,Pakistán,asia,3,0
+Afganistán,Palestina,asia,0,2
+Sri Lanka,Filipinas,asia,1,1
+Somalia,Etiopía,africa,0,0
+Lesoto,Burundi,africa,1,0
+Seychelles,Kenia,africa,0,3
 Dinamarca,Bulgaria,europe,1,1
 Armenia,República Checa,europe,0,3
+Nepal,Timor Oriental,asia,2,1
+Camboya,Laos,asia,4,2
+Guinea-Bissáu,Togo,africa,1,1
+Guinea Ecuatorial,Madagascar,africa,2,0
+Chad,Tanzania,africa,1,2
 Gales,Croacia,europe,1,2
 Irlanda del Norte,Israel,europe,0,2
 República de Irlanda,Austria,europe,2,2
+Suazilandia,RD del Congo,africa,1,3
+Eritrea,Ruanda,africa,1,1
+Yibuti,Namibia,africa,0,4
 Estonia,Andorra,europe,2,0
 Chipre,Suiza,europe,0,0
 Kazajstán,Alemania,europe,0,3
+Comoras,Mozambique,africa,0,1
+Santo Tomé y Príncipe,Congo,africa,0,5
 Moldavia,Montenegro,europe,0,1
 Francia,Georgia,europe,3,1
 San Marino,Inglaterra,europe,0,8
